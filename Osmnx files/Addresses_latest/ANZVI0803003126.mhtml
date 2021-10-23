@@ -1,0 +1,3369 @@
+Message-ID: <242399323.1602717178872.JavaMail.ce03@WDAUD6360DMX>
+From: gis.helpdesk@delwp.vic.gov.au
+Mime-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_1478_236708460.1602717178816"
+X-Mailer: Code Manager .SWT
+
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/html;charset=utf8
+Content-Transfer-Encoding: 7bit
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/allViewMetadata.html?anzlicId=ANZVI0803003126
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>View Metadata</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    
+    
+    
+<link href="http://services.land.vic.gov.au/SpatialDatamart/layoutResources/styles/formstyle.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://services.land.vic.gov.au/SpatialDatamart/layoutResources/styles/layout.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+
+<link href="http://services.land.vic.gov.au/SpatialDatamart/styles/text.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://services.land.vic.gov.au/SpatialDatamart/styles/application.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+body,
+html {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+</style>
+
+	
+	<link rel="stylesheet" type="text/css"
+		href="http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/tabview/assets/skins/sam/tabview.css" />
+	<script type="text/javascript"
+		src="http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/yahoo-dom-event/yahoo-dom-event.js"></script>
+	<script type="text/javascript"
+		src="http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/element/element-beta-min.js"></script>
+	<script type="text/javascript"
+		src="http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/tabview/tabview-min.js"></script>
+	
+	
+    
+
+
+
+
+     
+      
+<script type="text/javascript">
+//  restores the tabs in browsers which support them
+//  Chrome refuses to run any script so the tabs will not work in that browser
+function enabletabs() 
+{
+  var f = document.getElementById("tab1");
+  if (f) f.href="#tab1";
+  f = document.getElementById("tab2");
+  if (f) f.href="#tab2";
+  f = document.getElementById("tab3");
+  if (f) f.href="#tab3";
+}
+</script>
+</head>
+<body onload="enabletabs()"; >
+<a name="top"></a>
+
+
+<table id="main">	
+		<tr>
+			
+		   	<td id="content">
+		   		<div class="yui-skin-sam">
+   	
+   <div id="viewMetadataTab" class="yui-navset">
+         <ul class="yui-nav">
+            <li class="selected"><a id="tab1"><EM>Brief</EM></a></li>
+            <li><a id="tab2"><EM>Details</EM></a></li>
+            <li><a id="tab3"><EM>Attributes</EM></a></li>
+
+
+            
+          </ul>            
+   <div class="yui-content">
+   
+   <div>
+	<table class="listTable">
+       
+		<tr>
+			<th>Metadata Name</th>
+			<th>Description</th>
+		</tr>
+        <tr>
+         <td class="labelCell">Resource Name:</td>
+         <td>VMADD_ADDRESS</td>
+      </tr>
+		<tr>
+			<td class="labelCell">Title:</td>
+			<td>Address - Vicmap Address</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Anzlic Id:</td>
+			<td>ANZVI0803003126</td>
+		</tr>
+        <tr>
+            <td class="labelCell">Custodial Program:</td>
+            <td>Land Use Victoria</td>
+      </tr>
+		<tr>
+			<td class="labelCell">Custodian:</td>
+			<td>Department of Environment, Land, Water & Planning</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Abstract:</td>
+			<td>See metadata record VICMAP_ADDRESS (Vicmap Address) ANZVI0803002578 <br>http://services.land.vic.gov.au/SpatialDatamart/dataSearchViewMetadata.html?anzlicId=ANZVI0803002578&extractionProviderId=1<br><br>Vicmap Address is Victoria's authoritative geocoded datab</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Search Words:</td>
+			<td>LAND Ownership, LAND, LAND Cadastre</td>
+		</tr>
+
+		<tr>
+			<td class="labelCell">Nominal Input Scale:</td>
+			<td>Various</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Currency Date:</td>
+			<td>11 December 2020</td>
+		</tr>
+        <tr>
+            <td class="labelCell">Dataset Status:</td>
+            <td>Completed</td>
+         </tr>
+         <tr>
+			<td class="labelCell">Progress:</td>
+			<td>In Progress</td>
+		</tr>
+         <tr>
+            <td class="labelCell">Access Constraint:</td>
+            <td>Creative Commons Attribution 4.0 International licence, Copyright and Attribution, Terms of Use - http://creativecommons.org/licenses/by/4.0/<br>Access through www.delwp.vic.gov.au/vicmapdata or Vicmap Data Service Providers www.delwp.vic.gov.au/vicmapdsp or DataVic www.data.vic.gov.au</td>
+         </tr>
+	
+      
+		<tr>
+			<td class="labelCell">Data Existence:</td>
+			<td><img src="http://services.land.vic.gov.au/output/map_614337044785609539.png" border="0" /></td>
+		</tr>
+
+      
+      
+	</table>
+	</div>
+	
+   <div>
+	<table class="listTable">
+ 
+      
+		<tr>
+			<th>Metadata Name</th>
+			<th>Description</th>
+		</tr>
+        <tr>
+         <td class="labelCell">Resource Name:</td>
+         <td>VMADD_ADDRESS</td>
+      </tr>
+		<tr>
+			<td class="labelCell">Title:</td>
+			<td>Address - Vicmap Address</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Anzlic Id:</td>
+			<td>ANZVI0803003126
+			<div id="source_ANZVI0803003126" class="layerRow">
+				<span class="layerId" style="display:none;">ANZVI0803003126</span>
+			</div>						
+			
+			</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Custodian:</td>
+			<td>Department of Environment, Land, Water & Planning</td>
+		</tr>
+         <tr>
+            <td class="labelCell">Owner:</td>
+            <td>Department of Environment, Land, Water & Planning</td>
+         </tr>
+		<tr>
+			<td class="labelCell">Jurisdiction:</td>
+			<td>Victoria</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Abstract:</td>
+			<td>See metadata record VICMAP_ADDRESS (Vicmap Address) ANZVI0803002578 <br>http://services.land.vic.gov.au/SpatialDatamart/dataSearchViewMetadata.html?anzlicId=ANZVI0803002578&extractionProviderId=1<br><br>Vicmap Address is Victoria's authoritative geocoded datab</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Search Words:</td>
+			<td>LAND Ownership, LAND, LAND Cadastre</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Purpose:</td>
+			<td></td>
+		</tr>
+      
+      
+      
+		<tr>
+			<td class="labelCell">Geographic Extent Polygon:</td>
+			<td>
+				<table>
+					
+						<tr>
+							<td class="geoExtentPolygon">
+							
+							</td>
+	                  		<td>
+								
+							</td>
+	                  	</tr>
+	               
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Geographic Bounding Box:</td>
+			<td>
+				
+					<table class="geoBoundingBoxTable">
+						<tr>
+							<td>
+							</td>
+							<td class="geoBoundingBoxLatMax">
+								-34
+							</td>
+							<td>
+							</td>
+						</tr>
+						<tr>
+							<td class="geoBoundingBoxLongMin">
+								141
+							</td>
+							<td>
+								<table border="1" width="100%" cellspacing="0"><tr><td><pre> </pre></td></tr></table>
+							</td>
+							<td class="geoBoundingBoxLongMax">
+								150
+							</td>
+						</tr>
+						<tr>
+							<td>
+							</td>
+							<td class="geoBoundingBoxLatMin">
+								-39
+							</td>
+							<td>
+							</td>
+						</tr>
+					</table>
+				
+			</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Beginning Date:</td>
+			<td>Not Known</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Ending Date:</td>
+			<td>Current</td>
+		</tr>
+        <tr>
+            <td class="labelCell">Maintainence and Update Frequency:</td>
+            <td>Continual</td>
+         </tr>
+         <tr>
+            <td class="labelCell">Stored Data Format:</td>
+            <td>ESRI SDE Layer (Shape file)</td>
+         </tr>
+         <tr>
+            <td class="labelCell">Available Format(s) Types:</td>
+            <td>All major digital formats, including AutoCAD- 'DXF' or 'DWG', ESRI - 'ArcSDE Shape Export or 'ArcSDE Export' or 'Shape'  Mapinfo - 'MID/MIF' or 'TAB', 'Oracle Datapump export'</td>
+         </tr>
+ 
+		<tr>
+			<td class="labelCell">Lineage:</td>
+			<td>Derived</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Positional Accuracy:</td>
+			<td>Geocodes within Vicmap Address are classified as 'BB' accuracy, ie, 90% of well-defined features are within 1mm, at plot scale, of their true position, eg, 1:500 equates to +/-0.5m and 1:25,000 to +/-25m. Anecdotal evidence suggests that the spatial accuracy of the major part of the dataset, at all scales, is frequently better than BB.
+Address points may vary in chosen geocode location :-
+-  Rural Adddresses with a RRN - If property access captured, the address point varies from 1 to 50 metres back from the property road frontage. If the access to the property is from a road not abutting the property or through an adjacent property, the address point will be located outside the property  and a 'outside_property' flag is set.
+If has been no access point location captured, the address point will be at the property centroid.
+-  Rural addresses with no RRN - The address point will be at the property centroid.
+centroidnumberWhere a rural address access point is external to the property (eg end of a shared access track, a separate 'outside_property' flag is set.
+-  Urban addresses in Metropolitan Melbourne - 8 metres back from centre of the property road frontage
+-  Urban addresses in rural  Victoria - Limited number 8 metres back from centre of the property road frontage, with the remainder at the property centroid.
+
+It is envisaged that all address points in rural Victoria, apart from RNN's, will be located 8 metres back from centre of the relevant property road frontage by mid 2008.</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Atribute Accuracy:</td>
+			<td>The allowable error in attribute accuracy ranges between a 1% (new data additions) to 5% (pre-PIP maintained contract data). For this project, attribute accuracy is a measure of the degree to which attribute values of address points agree with the information on the source material.</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Logical Consistency:</td>
+			<td>The allowable error in logical consistency ranges between 1% (new data additions) to 5% (pre-PIP maintained contract data). Logical consistency is a measure of the degree to which data complies with the technical specification. The test procedures are a mixture of software scripts and on-screen, visual checks.</td>
+		</tr>
+        <tr>
+            <td class="labelCell">Data Source:</td>
+            <td>Vicmap Address was originally derived from address information held within Vicmap Property and Vicmap Transport. Sources within these two datasets include Melbourne Water's POLARIS rating database (metropolitan Melbourne addresses), municipal council records (rural and regional addresses) and similar authoritative sources such as water utilities.  Significant updating and verification has vastly imnproved the content and detail.</td>
+         </tr>
+
+
+		<tr>
+			<td class="labelCell">Contact Organisation:</td>
+			<td>Department of Environment, Land, Water & Planning</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Contact Position:</td>
+			<td>Dataset Data Manager</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Address:</td>
+			<td>Vicmap Product Manager</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td><td>Melbourne&nbsp;&nbsp;Vic&nbsp;3000</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td><td>Australia</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Telephone:</td>
+			<td>.</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Facsimile:</td>
+			<td>.</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Email Address:</td>
+			<td>vicmap.help@delwp.vic.gov.au</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Metadata Date:</td>
+			<td>2020-06-17 00:00:00.0</td>
+		</tr>
+		<tr>
+			<td class="labelCell">Additional Metadata:</td>
+			<td>Please see Vicmap Address product description for more detailed information on this product. 
+This can be found on the Vicmap Address webpage.
+http://www.delwp.vic.gov.au/vicmap > Vicmap Products > Vicmap Address</td>
+		</tr>
+      
+		
+
+
+	</table>
+	</div>
+	<!--  third tab -->
+	   <div>
+	   		 
+	   
+	   			
+	   				<table width"100%">
+				        <tr>
+				         	<td class="labelCell" width="120px"><b>Resource Name:</b></td>
+				         	<td>VMADD_ADDRESS</td>
+				      	</tr>
+						<tr>
+							<td class="labelCell"><b>Title:</b></td>
+							<td>Address - Vicmap Address</td>
+						</tr>
+						<tr>
+							<td class="labelCell"><b>Object Name:</b></td>
+							<td>VMADD.ADDRESS</td>
+						</tr>
+					</table>
+				
+				<table width"100%" class="listTable">
+					<tr>
+						<th nowrap="nowrap">Column Name</th>
+						<th nowrap="nowrap">Column Name 10</th>
+						<th nowrap="nowrap">Obligation</th>
+						<th nowrap="nowrap">Unique</th>
+						<th nowrap="nowrap">Data Type</th>
+						<th nowrap="nowrap">Reference Table</th>
+						<th nowrap="nowrap" width="30%">Comments</th>
+					</tr>
+					
+						<tr>
+							<td nowrap="nowrap">ADDRESS_CLASS</td>
+				         	<td nowrap="nowrap">ADD_CLASS</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		
+					         		VMREFTAB.ADDRESS_CLASS
+					         	
+				         	</td>
+				         	<td width="30%">ADDRESS_CLASS Options:
+M=MISCELLANEOUS,Requirements for Standard class attributes are not populated.
+S=STANDARD, Mandatory population of house_number_1, road_name & locality attributes. (N.B. road_name cannot be "UNNAMED")
+Valid exceptions for mandatory population of house_no_1 are where blg_unit_type = �BBOX� or �BTSD� in conjunction and blg_unit_id_1 is populated
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">ADD_ACCESS_TYPE</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">ADD_ACCESS_TYPE Options:
+L=An address that is accessed from a road
+W=An address that is accessed from a water way
+I=An address that is located on an island that cannot be accessed from the mainland by road.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_ID_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(5)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Number used to distinguish an address within a complex.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_ID_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(5)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Number used to distinguish an address within a complex.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_PREFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character preceding the blg_unit_id_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_PREFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character preceding the blg_unit_id_1 (number)</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_SUFFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character following the blg_unit_id (number).</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_SUFFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character following the blg_unit_id (number)</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BLG_UNIT_TYPE</td>
+				         	<td nowrap="nowrap">BLGUNTTYP</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(4)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_BLG_UNIT_TYPE&orderBy=BLG_UNIT_TYPE_ABBREVIATION', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_BLG_UNIT_TYPE
+					         	
+				         	</td>
+				         	<td width="30%">Describes the type of sub address property found, generally within a building complex.It Includes: BTSD, OFFC, SHOP etc.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">BUILDING_NAME</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(45)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Common usage name for an address site, including the name for a building, property or business</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">COMPLEX_NAME</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(45)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Common usage name for a building complex or group of addressed properties, including shopping centres, universities, retirement homes etc.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">COMPLEX_SITE</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%"></td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISP_NUMBER_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(6)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Number displayed on property, where different to officially assigned number/s.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISP_NUMBER_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(6)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Last number in a range displayed on the property, where different to officially assigned number/s</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISP_PREFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character/s preceding the display_number_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISP_PREFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character/s preceding the display_number_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISP_SUFFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character/s following the display_number_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISP_SUFFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character/s following the display_number_2</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">DISTANCE_RELATED_FLAG</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_DISTANCE_RELATED_FLAG&orderBy=DISTANCE_RELATED_FLAG_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_DISTANCE_RELATED_FLAG
+					         	
+				         	</td>
+				         	<td width="30%">Indicates if the. number populated in house_number_1 has been allocated based on distance.
+distance_related_flag options:-
+Y= Yes, the number is a distance based number
+N = No, the number is not a distance based number. i.e. sequentially allocated (odds/evens)
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">EZI_ADDRESS</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(80)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Concatenation of blg_unit_*, house_*, road_name/type/suffix, plus locality & postcode  fields.
+Concatenation of key address attribute fields to provide a unique address for either data matching or data labelling.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FEATURE_QUALITY_ID</td>
+				         	<td nowrap="nowrap">FQID</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(20)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%"></td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_NO_1</td>
+				         	<td nowrap="nowrap">FLOOR_NO_1</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(5)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Number of the floor/level</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_NO_2</td>
+				         	<td nowrap="nowrap">FLOOR_NO_2</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(5)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Second number component of a floor/level range. </td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_PREFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character preceding the floor_no_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_PREFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character preceding the floor_no_2 </td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_SUFFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character following the floor_no_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_SUFFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character following the floor_no_1 (number)</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">FLOOR_TYPE</td>
+				         	<td nowrap="nowrap">FLOOR_TYPE</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(4)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_FLOOR_TYPE&orderBy=FLOOR_TYPE_ABBREVIATION', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_FLOOR_TYPE
+					         	
+				         	</td>
+				         	<td width="30%">Distinguishes the floor or level of a multi storey building/complex.It describes the type of floor or level type.
+floor_type options include:
+B = Basement
+G = Ground
+LG = Lower Ground etc.
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">GEOCODE_FEATURE</td>
+				         	<td nowrap="nowrap">GCODEFEAT</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_GEOCODE_FEATURE&orderBy=GEOCODE_FEATURE_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_GEOCODE_FEATURE
+					         	
+				         	</td>
+				         	<td width="30%">Indicates if the address point location is representative of the property entrance.
+geocode_feature options:-
+E = Entrance Point � indicates the address point is representative of the property entrance or access point.
+V = Virtual Point � indicates the address point is somewhere in the property polygon (unless the outside_property = Y). Generally near centre of the property road frontage at an offset of 8 metres
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HOUSE_NUMBER_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(6)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Identifies the official number of an address in a road </td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HOUSE_NUMBER_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(6)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Identifies the official number of an address in a road.Last number in a range of 2 or more numbers that relates to either a large property with the potential to subdivide or a multi parcel property.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HOUSE_PREFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character preceding the house_number_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HOUSE_PREFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character preceding the house_number_2 </td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HOUSE_SUFFIX_1</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character following the house_number_1</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HOUSE_SUFFIX_2</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Alpha character following the house_number_2</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HSA_FLAG</td>
+				         	<td nowrap="nowrap">HSA_FLAG</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">HSA_FLAG Options:
+Y= Yes
+N= No</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">HSA_UNIT_ID</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(5)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%"></td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">IS_PRIMARY</td>
+				         	<td nowrap="nowrap">IS_PRIMARY</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_IS_PRIMARY&orderBy=IS_PRIMARY_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_IS_PRIMARY
+					         	
+				         	</td>
+				         	<td width="30%">Primary or Secondary property address.
+is_primary options:
+Y = Yes, the property�s main (primary) address
+N = No, not the property�s main (primary) address. i.e. an alternative property (secondary) address 
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">LABEL_ADDRESS</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%"></td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">LGA_CODE</td>
+				         	<td nowrap="nowrap">LGA_CODE</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(3)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.LGA&orderBy=LGA_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.LGA
+					         	
+				         	</td>
+				         	<td width="30%">Code created and assigned by ISB to identify the local government area</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">LOCALITY_NAME</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(46)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.LOCALITY&orderBy=LOCALITY_UNIQUE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.LOCALITY
+					         	
+				         	</td>
+				         	<td width="30%">Officially gazetted name for the bounded suburb or rural district as defined by local  government and approved by GeoNames</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">LOCATION_DESCRIPTOR</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(10)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_LOCATION_DESCRIPTOR&orderBy=LOCATION_DESCRIPTOR', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_LOCATION_DESCRIPTOR
+					         	
+				         	</td>
+				         	<td width="30%">Describes the position of an address relative to another address.It Includes: ABOVE, ADJACENT,CORNER etc.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">MESH_BLOCK</td>
+				         	<td nowrap="nowrap">MESH_BLOCK</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(11)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Census block number</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">NUM_ADDRESS</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(20)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Aggregation of blg_unit_* and house_*, identifiers</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">NUM_ROAD_ADDRESS</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(60)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Aggregation of blg_unit_* and house_*, identifiers, plus road_name/type/suffix fields.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">OUTSIDE_PROPERTY</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_OUTSIDE_PROPERTY&orderBy=OUTSIDE_PROPERTY_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_OUTSIDE_PROPERTY
+					         	
+				         	</td>
+				         	<td width="30%">Indicates if the address point location is outside the related VICMAP PROPERTY property polygon.   
+outside_property options:
+Y = Yes � address point is outside property polygon
+N = No � address point is not inside property polygon
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">PFI</td>
+				         	<td nowrap="nowrap">PFI</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">Y</td>
+				         	<td nowrap="nowrap">VARCHAR2(10)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Persistent Feature Identifier uniquely identifies each address record. Persists through either  attribute or spatial representation changes. i.e. Remains for the life of the address object it identifies</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">PFI_CREATED</td>
+				         	<td nowrap="nowrap">PFI_CR</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">DATE</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%"></td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">POSTCODE</td>
+				         	<td nowrap="nowrap">POSTCODE</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(4)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Australia Post business area identifier (numeric). Assigned in accordance with postal delivery arrangements </td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">PROPERTY_PFI</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(10)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">VICMAP PROPERTY Persistent Feature Identifier uniquely identifies each property record. Persists through either attribute or spatial representation changes. i.e. Remains for the life of the address object it identifies</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">PROPERTY_STATUS</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(1)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.PR_STATUS&orderBy=status_code', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.PR_STATUS
+					         	
+				         	</td>
+				         	<td width="30%">Indicates whether the property the address is associated with is considered �Proposed� or �Approved�.
+property_status options:
+P = Proposed - indicates the plan of subdivision yet to be approved 
+A = Approved - indicates the plan of subdivision approved (& titles issued)
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">ROAD_NAME</td>
+				         	<td nowrap="nowrap">ROAD_NAME</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(45)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Principal component of a road name (road_name+road_type+road_suffix) for a pedestrian or vehicular thoroughfare</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">ROAD_SUFFIX</td>
+				         	<td nowrap="nowrap">RD_SUF</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(2)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ROAD_SUFFIX&orderBy=ROAD_SUFFIX', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ROAD_SUFFIX
+					         	
+				         	</td>
+				         	<td width="30%">Supplementary and optional component of road name � Abbreviation only</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">ROAD_TYPE</td>
+				         	<td nowrap="nowrap">ROAD_TYPE</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(15)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ROAD_TYPE&orderBy=ROAD_type', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ROAD_TYPE
+					         	
+				         	</td>
+				         	<td width="30%">Supplementary and optional component of road name.
+Originally a description of the road. e.g. Court � a short enclose roadway, or Lane � narrow way between walls, trees etc. Often less so now as some very creative and often confusing types have been introduced.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">SOURCE</td>
+				         	<td nowrap="nowrap">SOURCE</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(3)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.ADDRESS_SOURCE&orderBy=SOURCE_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.ADDRESS_SOURCE
+					         	
+				         	</td>
+				         	<td width="30%">Definitive (where possible) source of property address data.
+source options include:
+LGO = Local Government Official
+LGU = Local Government Unofficial
+ES = Emergency Services
+PH = public Housing
+</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">SOURCE_VERIFIED</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">DATE</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Date address was last verified against the defined source dataset.</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">STATE</td>
+				         	<td nowrap="nowrap">STATE</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">VARCHAR2(3)</td>
+				         	<td nowrap="nowrap">
+					         	
+					         		<img src="http://services.land.vic.gov.au/SpatialDatamart/images/search.gif" border="0" onclick="showPopWin('displayTableDetails.html?tableName=VMREFTAB.FR_STATE&orderBy=STATE_CODE', 950, 700, null);" style="cursor:pointer"/>
+					         		VMREFTAB.FR_STATE
+					         	
+				         	</td>
+				         	<td width="30%">Identifies the Australian state or territory in with the address is located � Abbreviation only </td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">UFI</td>
+				         	<td nowrap="nowrap">UFI</td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(10)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Unique Feature Identifier changes with any attribute or positional change</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">UFI_CREATED</td>
+				         	<td nowrap="nowrap"></td>
+				         	<td nowrap="nowrap">M</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">DATE</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%">Date the Unique Feature Identifier (ufi) was created. Date will be updated every time the ufi changes. i.e. date of last position or attribute change</td>
+						</tr>
+					
+						<tr>
+							<td nowrap="nowrap">UFI_OLD</td>
+				         	<td nowrap="nowrap">UFI_OLD</td>
+				         	<td nowrap="nowrap">O</td>
+				         	<td nowrap="nowrap">N</td>
+				         	<td nowrap="nowrap">NUMBER(10)</td>
+				         	<td nowrap="nowrap">
+					         	
+				         	</td>
+				         	<td width="30%"></td>
+						</tr>
+					
+				</table>
+			
+			
+		</div>
+	<!-- end third tab -->
+	
+   
+	
+   </div>
+   
+   </div>
+   </div>
+   
+<script>
+(function() {
+    var tabView = new YAHOO.widget.TabView('viewMetadataTab');
+})();
+</script>
+		   	</td>
+	   	</tr>
+   	</table>
+   	
+
+</body>
+</html>
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/plain; charset=Cp1252
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/yahoo-dom-event/yahoo-dom-event.js
+
+/*
+Copyright (c) 2007, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.4.1
+*/
+if(typeof YAHOO=3D=3D"undefined"||!YAHOO){var YAHOO=3D{};}YAHOO.namespace=
+=3Dfunction(){var A=3Darguments,E=3Dnull,C,B,D;for(C=3D0;C<A.length;C=3DC+1=
+){D=3DA[C].split(".");E=3DYAHOO;for(B=3D(D[0]=3D=3D"YAHOO")?1:0;B<D.length;=
+B=3DB+1){E[D[B]]=3DE[D[B]]||{};E=3DE[D[B]];}}return E;};YAHOO.log=3Dfunctio=
+n(D,A,C){var B=3DYAHOO.widget.Logger;if(B&&B.log){return B.log(D,A,C);}else=
+{return false;}};YAHOO.register=3Dfunction(A,E,D){var I=3DYAHOO.env.modules=
+;if(!I[A]){I[A]=3D{versions:[],builds:[]};}var B=3DI[A],H=3DD.version,G=3DD=
+.build,F=3DYAHOO.env.listeners;B.name=3DA;B.version=3DH;B.build=3DG;B.versi=
+ons.push(H);B.builds.push(G);B.mainClass=3DE;for(var C=3D0;C<F.length;C=3DC=
++1){F[C](B);}if(E){E.VERSION=3DH;E.BUILD=3DG;}else{YAHOO.log("mainClass is =
+undefined for module "+A,"warn");}};YAHOO.env=3DYAHOO.env||{modules:[],list=
+eners:[]};YAHOO.env.getVersion=3Dfunction(A){return YAHOO.env.modules[A]||n=
+ull;};YAHOO.env.ua=3Dfunction(){var C=3D{ie:0,opera:0,gecko:0,webkit:0,mobi=
+le:null};var B=3Dnavigator.userAgent,A;if((/KHTML/).test(B)){C.webkit=3D1;}=
+A=3DB.match(/AppleWebKit\/([^\s]*)/);if(A&&A[1]){C.webkit=3DparseFloat(A[1]=
+);if(/ Mobile\//.test(B)){C.mobile=3D"Apple";}else{A=3DB.match(/NokiaN[^\/]=
+*/);if(A){C.mobile=3DA[0];}}}if(!C.webkit){A=3DB.match(/Opera[\s\/]([^\s]*)=
+/);if(A&&A[1]){C.opera=3DparseFloat(A[1]);A=3DB.match(/Opera Mini[^;]*/);if=
+(A){C.mobile=3DA[0];}}else{A=3DB.match(/MSIE\s([^;]*)/);if(A&&A[1]){C.ie=3D=
+parseFloat(A[1]);}else{A=3DB.match(/Gecko\/([^\s]*)/);if(A){C.gecko=3D1;A=
+=3DB.match(/rv:([^\s\)]*)/);if(A&&A[1]){C.gecko=3DparseFloat(A[1]);}}}}}ret=
+urn C;}();(function(){YAHOO.namespace("util","widget","example");if("undefi=
+ned"!=3D=3Dtypeof YAHOO_config){var B=3DYAHOO_config.listener,A=3DYAHOO.env=
+.listeners,D=3Dtrue,C;if(B){for(C=3D0;C<A.length;C=3DC+1){if(A[C]=3D=3DB){D=
+=3Dfalse;break;}}if(D){A.push(B);}}}})();YAHOO.lang=3DYAHOO.lang||{isArray:=
+function(B){if(B){var A=3DYAHOO.lang;return A.isNumber(B.length)&&A.isFunct=
+ion(B.splice);}return false;},isBoolean:function(A){return typeof A=3D=3D=
+=3D"boolean";},isFunction:function(A){return typeof A=3D=3D=3D"function";},=
+isNull:function(A){return A=3D=3D=3Dnull;},isNumber:function(A){return type=
+of A=3D=3D=3D"number"&&isFinite(A);},isObject:function(A){return(A&&(typeof=
+ A=3D=3D=3D"object"||YAHOO.lang.isFunction(A)))||false;},isString:function(=
+A){return typeof A=3D=3D=3D"string";},isUndefined:function(A){return typeof=
+ A=3D=3D=3D"undefined";},hasOwnProperty:function(A,B){if(Object.prototype.h=
+asOwnProperty){return A.hasOwnProperty(B);}return !YAHOO.lang.isUndefined(A=
+[B])&&A.constructor.prototype[B]!=3D=3DA[B];},_IEEnumFix:function(C,B){if(Y=
+AHOO.env.ua.ie){var E=3D["toString","valueOf"],A;for(A=3D0;A<E.length;A=3DA=
++1){var F=3DE[A],D=3DB[F];if(YAHOO.lang.isFunction(D)&&D!=3DObject.prototyp=
+e[F]){C[F]=3DD;}}}},extend:function(D,E,C){if(!E||!D){throw new Error("YAHO=
+O.lang.extend failed, please check that all dependencies are included.");}v=
+ar B=3Dfunction(){};B.prototype=3DE.prototype;D.prototype=3Dnew B();D.proto=
+type.constructor=3DD;D.superclass=3DE.prototype;if(E.prototype.constructor=
+=3D=3DObject.prototype.constructor){E.prototype.constructor=3DE;}if(C){for(=
+var A in C){D.prototype[A]=3DC[A];}YAHOO.lang._IEEnumFix(D.prototype,C);}},=
+augmentObject:function(E,D){if(!D||!E){throw new Error("Absorb failed, veri=
+fy dependencies.");}var A=3Darguments,C,F,B=3DA[2];if(B&&B!=3D=3Dtrue){for(=
+C=3D2;C<A.length;C=3DC+1){E[A[C]]=3DD[A[C]];}}else{for(F in D){if(B||!E[F])=
+{E[F]=3DD[F];}}YAHOO.lang._IEEnumFix(E,D);}},augmentProto:function(D,C){if(=
+!C||!D){throw new Error("Augment failed, verify dependencies.");}var A=3D[D=
+.prototype,C.prototype];for(var B=3D2;B<arguments.length;B=3DB+1){A.push(ar=
+guments[B]);}YAHOO.lang.augmentObject.apply(this,A);},dump:function(A,G){va=
+r C=3DYAHOO.lang,D,F,I=3D[],J=3D"{...}",B=3D"f(){...}",H=3D", ",E=3D" =3D> =
+";if(!C.isObject(A)){return A+"";}else{if(A instanceof Date||("nodeType" in=
+ A&&"tagName" in A)){return A;}else{if(C.isFunction(A)){return B;}}}G=3D(C.=
+isNumber(G))?G:3;if(C.isArray(A)){I.push("[");for(D=3D0,F=3DA.length;D<F;D=
+=3DD+1){if(C.isObject(A[D])){I.push((G>0)?C.dump(A[D],G-1):J);}else{I.push(=
+A[D]);}I.push(H);}if(I.length>1){I.pop();}I.push("]");}else{I.push("{");for=
+(D in A){if(C.hasOwnProperty(A,D)){I.push(D+E);if(C.isObject(A[D])){I.push(=
+(G>0)?C.dump(A[D],G-1):J);}else{I.push(A[D]);}I.push(H);}}if(I.length>1){I.=
+pop();}I.push("}");}return I.join("");},substitute:function(Q,B,J){var G,F,=
+E,M,N,P,D=3DYAHOO.lang,L=3D[],C,H=3D"dump",K=3D" ",A=3D"{",O=3D"}";for(;;){=
+G=3DQ.lastIndexOf(A);if(G<0){break;}F=3DQ.indexOf(O,G);if(G+1>=3DF){break;}=
+C=3DQ.substring(G+1,F);M=3DC;P=3Dnull;E=3DM.indexOf(K);if(E>-1){P=3DM.subst=
+ring(E+1);M=3DM.substring(0,E);}N=3DB[M];if(J){N=3DJ(M,N,P);}if(D.isObject(=
+N)){if(D.isArray(N)){N=3DD.dump(N,parseInt(P,10));}else{P=3DP||"";var I=3DP=
+.indexOf(H);if(I>-1){P=3DP.substring(4);}if(N.toString=3D=3D=3DObject.proto=
+type.toString||I>-1){N=3DD.dump(N,parseInt(P,10));}else{N=3DN.toString();}}=
+}else{if(!D.isString(N)&&!D.isNumber(N)){N=3D"~-"+L.length+"-~";L[L.length]=
+=3DC;}}Q=3DQ.substring(0,G)+N+Q.substring(F+1);}for(G=3DL.length-1;G>=3D0;G=
+=3DG-1){Q=3DQ.replace(new RegExp("~-"+G+"-~"),"{"+L[G]+"}","g");}return Q;}=
+,trim:function(A){try{return A.replace(/^\s+|\s+$/g,"");}catch(B){return A;=
+}},merge:function(){var D=3D{},B=3Darguments;for(var C=3D0,A=3DB.length;C<A=
+;C=3DC+1){YAHOO.lang.augmentObject(D,B[C],true);}return D;},later:function(=
+H,B,I,D,E){H=3DH||0;B=3DB||{};var C=3DI,G=3DD,F,A;if(YAHOO.lang.isString(I)=
+){C=3DB[I];}if(!C){throw new TypeError("method undefined");}if(!YAHOO.lang.=
+isArray(G)){G=3D[D];}F=3Dfunction(){C.apply(B,G);};A=3D(E)?setInterval(F,H)=
+:setTimeout(F,H);return{interval:E,cancel:function(){if(this.interval){clea=
+rInterval(A);}else{clearTimeout(A);}}};},isValue:function(B){var A=3DYAHOO.=
+lang;return(A.isObject(B)||A.isString(B)||A.isNumber(B)||A.isBoolean(B));}}=
+;YAHOO.util.Lang=3DYAHOO.lang;YAHOO.lang.augment=3DYAHOO.lang.augmentProto;=
+YAHOO.augment=3DYAHOO.lang.augmentProto;YAHOO.extend=3DYAHOO.lang.extend;YA=
+HOO.register("yahoo",YAHOO,{version:"2.4.1",build:"742"});(function(){var B=
+=3DYAHOO.util,L,J,H=3D0,K=3D{},F=3D{},N=3Dwindow.document;var C=3DYAHOO.env=
+.ua.opera,M=3DYAHOO.env.ua.webkit,A=3DYAHOO.env.ua.gecko,G=3DYAHOO.env.ua.i=
+e;var E=3D{HYPHEN:/(-[a-z])/i,ROOT_TAG:/^body|html$/i};var O=3Dfunction(Q){=
+if(!E.HYPHEN.test(Q)){return Q;}if(K[Q]){return K[Q];}var R=3DQ;while(E.HYP=
+HEN.exec(R)){R=3DR.replace(RegExp.$1,RegExp.$1.substr(1).toUpperCase());}K[=
+Q]=3DR;return R;};var P=3Dfunction(R){var Q=3DF[R];if(!Q){Q=3Dnew RegExp("(=
+?:^|\\s+)"+R+"(?:\\s+|$)");F[R]=3DQ;}return Q;};if(N.defaultView&&N.default=
+View.getComputedStyle){L=3Dfunction(Q,T){var S=3Dnull;if(T=3D=3D"float"){T=
+=3D"cssFloat";}var R=3DN.defaultView.getComputedStyle(Q,"");if(R){S=3DR[O(T=
+)];}return Q.style[T]||S;};}else{if(N.documentElement.currentStyle&&G){L=3D=
+function(Q,S){switch(O(S)){case"opacity":var U=3D100;try{U=3DQ.filters["DXI=
+mageTransform.Microsoft.Alpha"].opacity;}catch(T){try{U=3DQ.filters("alpha"=
+).opacity;}catch(T){}}return U/100;case"float":S=3D"styleFloat";default:var=
+ R=3DQ.currentStyle?Q.currentStyle[S]:null;return(Q.style[S]||R);}};}else{L=
+=3Dfunction(Q,R){return Q.style[R];};}}if(G){J=3Dfunction(Q,R,S){switch(R){=
+case"opacity":if(YAHOO.lang.isString(Q.style.filter)){Q.style.filter=3D"alp=
+ha(opacity=3D"+S*100+")";if(!Q.currentStyle||!Q.currentStyle.hasLayout){Q.s=
+tyle.zoom=3D1;}}break;case"float":R=3D"styleFloat";default:Q.style[R]=3DS;}=
+};}else{J=3Dfunction(Q,R,S){if(R=3D=3D"float"){R=3D"cssFloat";}Q.style[R]=
+=3DS;};}var D=3Dfunction(Q,R){return Q&&Q.nodeType=3D=3D1&&(!R||R(Q));};YAH=
+OO.util.Dom=3D{get:function(S){if(S&&(S.tagName||S.item)){return S;}if(YAHO=
+O.lang.isString(S)||!S){return N.getElementById(S);}if(S.length!=3D=3Dundef=
+ined){var T=3D[];for(var R=3D0,Q=3DS.length;R<Q;++R){T[T.length]=3DB.Dom.ge=
+t(S[R]);}return T;}return S;},getStyle:function(Q,S){S=3DO(S);var R=3Dfunct=
+ion(T){return L(T,S);};return B.Dom.batch(Q,R,B.Dom,true);},setStyle:functi=
+on(Q,S,T){S=3DO(S);var R=3Dfunction(U){J(U,S,T);};B.Dom.batch(Q,R,B.Dom,tru=
+e);},getXY:function(Q){var R=3Dfunction(S){if((S.parentNode=3D=3D=3Dnull||S=
+.offsetParent=3D=3D=3Dnull||this.getStyle(S,"display")=3D=3D"none")&&S!=3DS=
+.ownerDocument.body){return false;}return I(S);};return B.Dom.batch(Q,R,B.D=
+om,true);},getX:function(Q){var R=3Dfunction(S){return B.Dom.getXY(S)[0];};=
+return B.Dom.batch(Q,R,B.Dom,true);},getY:function(Q){var R=3Dfunction(S){r=
+eturn B.Dom.getXY(S)[1];};return B.Dom.batch(Q,R,B.Dom,true);},setXY:functi=
+on(Q,T,S){var R=3Dfunction(W){var V=3Dthis.getStyle(W,"position");if(V=3D=
+=3D"static"){this.setStyle(W,"position","relative");V=3D"relative";}var Y=
+=3Dthis.getXY(W);if(Y=3D=3D=3Dfalse){return false;}var X=3D[parseInt(this.g=
+etStyle(W,"left"),10),parseInt(this.getStyle(W,"top"),10)];if(isNaN(X[0])){=
+X[0]=3D(V=3D=3D"relative")?0:W.offsetLeft;}if(isNaN(X[1])){X[1]=3D(V=3D=3D"=
+relative")?0:W.offsetTop;}if(T[0]!=3D=3Dnull){W.style.left=3DT[0]-Y[0]+X[0]=
++"px";}if(T[1]!=3D=3Dnull){W.style.top=3DT[1]-Y[1]+X[1]+"px";}if(!S){var U=
+=3Dthis.getXY(W);if((T[0]!=3D=3Dnull&&U[0]!=3DT[0])||(T[1]!=3D=3Dnull&&U[1]=
+!=3DT[1])){this.setXY(W,T,true);}}};B.Dom.batch(Q,R,B.Dom,true);},setX:func=
+tion(R,Q){B.Dom.setXY(R,[Q,null]);},setY:function(Q,R){B.Dom.setXY(Q,[null,=
+R]);},getRegion:function(Q){var R=3Dfunction(S){if((S.parentNode=3D=3D=3Dnu=
+ll||S.offsetParent=3D=3D=3Dnull||this.getStyle(S,"display")=3D=3D"none")&&S=
+!=3DN.body){return false;}var T=3DB.Region.getRegion(S);return T;};return B=
+.Dom.batch(Q,R,B.Dom,true);},getClientWidth:function(){return B.Dom.getView=
+portWidth();},getClientHeight:function(){return B.Dom.getViewportHeight();}=
+,getElementsByClassName:function(U,Y,V,W){Y=3DY||"*";V=3D(V)?B.Dom.get(V):n=
+ull||N;if(!V){return[];}var R=3D[],Q=3DV.getElementsByTagName(Y),X=3DP(U);f=
+or(var S=3D0,T=3DQ.length;S<T;++S){if(X.test(Q[S].className)){R[R.length]=
+=3DQ[S];if(W){W.call(Q[S],Q[S]);}}}return R;},hasClass:function(S,R){var Q=
+=3DP(R);var T=3Dfunction(U){return Q.test(U.className);};return B.Dom.batch=
+(S,T,B.Dom,true);},addClass:function(R,Q){var S=3Dfunction(T){if(this.hasCl=
+ass(T,Q)){return false;}T.className=3DYAHOO.lang.trim([T.className,Q].join(=
+" "));return true;};return B.Dom.batch(R,S,B.Dom,true);},removeClass:functi=
+on(S,R){var Q=3DP(R);var T=3Dfunction(U){if(!this.hasClass(U,R)){return fal=
+se;}var V=3DU.className;U.className=3DV.replace(Q," ");if(this.hasClass(U,R=
+)){this.removeClass(U,R);}U.className=3DYAHOO.lang.trim(U.className);return=
+ true;};return B.Dom.batch(S,T,B.Dom,true);},replaceClass:function(T,R,Q){i=
+f(!Q||R=3D=3D=3DQ){return false;}var S=3DP(R);var U=3Dfunction(V){if(!this.=
+hasClass(V,R)){this.addClass(V,Q);return true;}V.className=3DV.className.re=
+place(S," "+Q+" ");if(this.hasClass(V,R)){this.replaceClass(V,R,Q);}V.class=
+Name=3DYAHOO.lang.trim(V.className);return true;};return B.Dom.batch(T,U,B.=
+Dom,true);},generateId:function(Q,S){S=3DS||"yui-gen";var R=3Dfunction(T){i=
+f(T&&T.id){return T.id;}var U=3DS+H++;if(T){T.id=3DU;}return U;};return B.D=
+om.batch(Q,R,B.Dom,true)||R.apply(B.Dom,arguments);},isAncestor:function(Q,=
+R){Q=3DB.Dom.get(Q);R=3DB.Dom.get(R);if(!Q||!R){return false;}if(Q.contains=
+&&R.nodeType&&!M){return Q.contains(R);}else{if(Q.compareDocumentPosition&&=
+R.nodeType){return !!(Q.compareDocumentPosition(R)&16);}else{if(R.nodeType)=
+{return !!this.getAncestorBy(R,function(S){return S=3D=3DQ;});}}}return fal=
+se;},inDocument:function(Q){return this.isAncestor(N.documentElement,Q);},g=
+etElementsBy:function(X,R,S,U){R=3DR||"*";S=3D(S)?B.Dom.get(S):null||N;if(!=
+S){return[];}var T=3D[],W=3DS.getElementsByTagName(R);for(var V=3D0,Q=3DW.l=
+ength;V<Q;++V){if(X(W[V])){T[T.length]=3DW[V];if(U){U(W[V]);}}}return T;},b=
+atch:function(U,X,W,S){U=3D(U&&(U.tagName||U.item))?U:B.Dom.get(U);if(!U||!=
+X){return false;}var T=3D(S)?W:window;if(U.tagName||U.length=3D=3D=3Dundefi=
+ned){return X.call(T,U,W);}var V=3D[];for(var R=3D0,Q=3DU.length;R<Q;++R){V=
+[V.length]=3DX.call(T,U[R],W);}return V;},getDocumentHeight:function(){var =
+R=3D(N.compatMode!=3D"CSS1Compat")?N.body.scrollHeight:N.documentElement.sc=
+rollHeight;var Q=3DMath.max(R,B.Dom.getViewportHeight());return Q;},getDocu=
+mentWidth:function(){var R=3D(N.compatMode!=3D"CSS1Compat")?N.body.scrollWi=
+dth:N.documentElement.scrollWidth;var Q=3DMath.max(R,B.Dom.getViewportWidth=
+());return Q;},getViewportHeight:function(){var Q=3Dself.innerHeight;var R=
+=3DN.compatMode;if((R||G)&&!C){Q=3D(R=3D=3D"CSS1Compat")?N.documentElement.=
+clientHeight:N.body.clientHeight;
+}return Q;},getViewportWidth:function(){var Q=3Dself.innerWidth;var R=3DN.c=
+ompatMode;if(R||G){Q=3D(R=3D=3D"CSS1Compat")?N.documentElement.clientWidth:=
+N.body.clientWidth;}return Q;},getAncestorBy:function(Q,R){while(Q=3DQ.pare=
+ntNode){if(D(Q,R)){return Q;}}return null;},getAncestorByClassName:function=
+(R,Q){R=3DB.Dom.get(R);if(!R){return null;}var S=3Dfunction(T){return B.Dom=
+.hasClass(T,Q);};return B.Dom.getAncestorBy(R,S);},getAncestorByTagName:fun=
+ction(R,Q){R=3DB.Dom.get(R);if(!R){return null;}var S=3Dfunction(T){return =
+T.tagName&&T.tagName.toUpperCase()=3D=3DQ.toUpperCase();};return B.Dom.getA=
+ncestorBy(R,S);},getPreviousSiblingBy:function(Q,R){while(Q){Q=3DQ.previous=
+Sibling;if(D(Q,R)){return Q;}}return null;},getPreviousSibling:function(Q){=
+Q=3DB.Dom.get(Q);if(!Q){return null;}return B.Dom.getPreviousSiblingBy(Q);}=
+,getNextSiblingBy:function(Q,R){while(Q){Q=3DQ.nextSibling;if(D(Q,R)){retur=
+n Q;}}return null;},getNextSibling:function(Q){Q=3DB.Dom.get(Q);if(!Q){retu=
+rn null;}return B.Dom.getNextSiblingBy(Q);},getFirstChildBy:function(Q,S){v=
+ar R=3D(D(Q.firstChild,S))?Q.firstChild:null;return R||B.Dom.getNextSibling=
+By(Q.firstChild,S);},getFirstChild:function(Q,R){Q=3DB.Dom.get(Q);if(!Q){re=
+turn null;}return B.Dom.getFirstChildBy(Q);},getLastChildBy:function(Q,S){i=
+f(!Q){return null;}var R=3D(D(Q.lastChild,S))?Q.lastChild:null;return R||B.=
+Dom.getPreviousSiblingBy(Q.lastChild,S);},getLastChild:function(Q){Q=3DB.Do=
+m.get(Q);return B.Dom.getLastChildBy(Q);},getChildrenBy:function(R,T){var S=
+=3DB.Dom.getFirstChildBy(R,T);var Q=3DS?[S]:[];B.Dom.getNextSiblingBy(S,fun=
+ction(U){if(!T||T(U)){Q[Q.length]=3DU;}return false;});return Q;},getChildr=
+en:function(Q){Q=3DB.Dom.get(Q);if(!Q){}return B.Dom.getChildrenBy(Q);},get=
+DocumentScrollLeft:function(Q){Q=3DQ||N;return Math.max(Q.documentElement.s=
+crollLeft,Q.body.scrollLeft);},getDocumentScrollTop:function(Q){Q=3DQ||N;re=
+turn Math.max(Q.documentElement.scrollTop,Q.body.scrollTop);},insertBefore:=
+function(R,Q){R=3DB.Dom.get(R);Q=3DB.Dom.get(Q);if(!R||!Q||!Q.parentNode){r=
+eturn null;}return Q.parentNode.insertBefore(R,Q);},insertAfter:function(R,=
+Q){R=3DB.Dom.get(R);Q=3DB.Dom.get(Q);if(!R||!Q||!Q.parentNode){return null;=
+}if(Q.nextSibling){return Q.parentNode.insertBefore(R,Q.nextSibling);}else{=
+return Q.parentNode.appendChild(R);}},getClientRegion:function(){var S=3DB.=
+Dom.getDocumentScrollTop(),R=3DB.Dom.getDocumentScrollLeft(),T=3DB.Dom.getV=
+iewportWidth()+R,Q=3DB.Dom.getViewportHeight()+S;return new B.Region(S,T,Q,=
+R);}};var I=3Dfunction(){if(N.documentElement.getBoundingClientRect){return=
+ function(R){var S=3DR.getBoundingClientRect();var Q=3DR.ownerDocument;retu=
+rn[S.left+B.Dom.getDocumentScrollLeft(Q),S.top+B.Dom.getDocumentScrollTop(Q=
+)];};}else{return function(S){var T=3D[S.offsetLeft,S.offsetTop];var R=3DS.=
+offsetParent;var Q=3D(M&&B.Dom.getStyle(S,"position")=3D=3D"absolute"&&S.of=
+fsetParent=3D=3DS.ownerDocument.body);if(R!=3DS){while(R){T[0]+=3DR.offsetL=
+eft;T[1]+=3DR.offsetTop;if(!Q&&M&&B.Dom.getStyle(R,"position")=3D=3D"absolu=
+te"){Q=3Dtrue;}R=3DR.offsetParent;}}if(Q){T[0]-=3DS.ownerDocument.body.offs=
+etLeft;T[1]-=3DS.ownerDocument.body.offsetTop;}R=3DS.parentNode;while(R.tag=
+Name&&!E.ROOT_TAG.test(R.tagName)){if(B.Dom.getStyle(R,"display").search(/^=
+inline|table-row.*$/i)){T[0]-=3DR.scrollLeft;T[1]-=3DR.scrollTop;}R=3DR.par=
+entNode;}return T;};}}();})();YAHOO.util.Region=3Dfunction(C,D,A,B){this.to=
+p=3DC;this[1]=3DC;this.right=3DD;this.bottom=3DA;this.left=3DB;this[0]=3DB;=
+};YAHOO.util.Region.prototype.contains=3Dfunction(A){return(A.left>=3Dthis.=
+left&&A.right<=3Dthis.right&&A.top>=3Dthis.top&&A.bottom<=3Dthis.bottom);};=
+YAHOO.util.Region.prototype.getArea=3Dfunction(){return((this.bottom-this.t=
+op)*(this.right-this.left));};YAHOO.util.Region.prototype.intersect=3Dfunct=
+ion(E){var C=3DMath.max(this.top,E.top);var D=3DMath.min(this.right,E.right=
+);var A=3DMath.min(this.bottom,E.bottom);var B=3DMath.max(this.left,E.left)=
+;if(A>=3DC&&D>=3DB){return new YAHOO.util.Region(C,D,A,B);}else{return null=
+;}};YAHOO.util.Region.prototype.union=3Dfunction(E){var C=3DMath.min(this.t=
+op,E.top);var D=3DMath.max(this.right,E.right);var A=3DMath.max(this.bottom=
+,E.bottom);var B=3DMath.min(this.left,E.left);return new YAHOO.util.Region(=
+C,D,A,B);};YAHOO.util.Region.prototype.toString=3Dfunction(){return("Region=
+ {top: "+this.top+", right: "+this.right+", bottom: "+this.bottom+", left: =
+"+this.left+"}");};YAHOO.util.Region.getRegion=3Dfunction(D){var F=3DYAHOO.=
+util.Dom.getXY(D);var C=3DF[1];var E=3DF[0]+D.offsetWidth;var A=3DF[1]+D.of=
+fsetHeight;var B=3DF[0];return new YAHOO.util.Region(C,E,A,B);};YAHOO.util.=
+Point=3Dfunction(A,B){if(YAHOO.lang.isArray(A)){B=3DA[1];A=3DA[0];}this.x=
+=3Dthis.right=3Dthis.left=3Dthis[0]=3DA;this.y=3Dthis.top=3Dthis.bottom=3Dt=
+his[1]=3DB;};YAHOO.util.Point.prototype=3Dnew YAHOO.util.Region();YAHOO.reg=
+ister("dom",YAHOO.util.Dom,{version:"2.4.1",build:"742"});YAHOO.util.Custom=
+Event=3Dfunction(D,B,C,A){this.type=3DD;this.scope=3DB||window;this.silent=
+=3DC;this.signature=3DA||YAHOO.util.CustomEvent.LIST;this.subscribers=3D[];=
+if(!this.silent){}var E=3D"_YUICEOnSubscribe";if(D!=3D=3DE){this.subscribeE=
+vent=3Dnew YAHOO.util.CustomEvent(E,this,true);}this.lastError=3Dnull;};YAH=
+OO.util.CustomEvent.LIST=3D0;YAHOO.util.CustomEvent.FLAT=3D1;YAHOO.util.Cus=
+tomEvent.prototype=3D{subscribe:function(B,C,A){if(!B){throw new Error("Inv=
+alid callback for subscriber to '"+this.type+"'");}if(this.subscribeEvent){=
+this.subscribeEvent.fire(B,C,A);}this.subscribers.push(new YAHOO.util.Subsc=
+riber(B,C,A));},unsubscribe:function(D,F){if(!D){return this.unsubscribeAll=
+();}var E=3Dfalse;for(var B=3D0,A=3Dthis.subscribers.length;B<A;++B){var C=
+=3Dthis.subscribers[B];if(C&&C.contains(D,F)){this._delete(B);E=3Dtrue;}}re=
+turn E;},fire:function(){var D=3Dthis.subscribers.length;if(!D&&this.silent=
+){return true;}var H=3D[],F=3Dtrue,C,I=3Dfalse;for(C=3D0;C<arguments.length=
+;++C){H.push(arguments[C]);}if(!this.silent){}for(C=3D0;C<D;++C){var L=3Dth=
+is.subscribers[C];if(!L){I=3Dtrue;}else{if(!this.silent){}var K=3DL.getScop=
+e(this.scope);if(this.signature=3D=3DYAHOO.util.CustomEvent.FLAT){var A=3Dn=
+ull;if(H.length>0){A=3DH[0];}try{F=3DL.fn.call(K,A,L.obj);}catch(E){this.la=
+stError=3DE;}}else{try{F=3DL.fn.call(K,this.type,H,L.obj);}catch(G){this.la=
+stError=3DG;}}if(false=3D=3D=3DF){if(!this.silent){}return false;}}}if(I){v=
+ar J=3D[],B=3Dthis.subscribers;for(C=3D0,D=3DB.length;C<D;C=3DC+1){J.push(B=
+[C]);}this.subscribers=3DJ;}return true;},unsubscribeAll:function(){for(var=
+ B=3D0,A=3Dthis.subscribers.length;B<A;++B){this._delete(A-1-B);}this.subsc=
+ribers=3D[];return B;},_delete:function(A){var B=3Dthis.subscribers[A];if(B=
+){delete B.fn;delete B.obj;}this.subscribers[A]=3Dnull;},toString:function(=
+){return"CustomEvent: '"+this.type+"', scope: "+this.scope;}};YAHOO.util.Su=
+bscriber=3Dfunction(B,C,A){this.fn=3DB;this.obj=3DYAHOO.lang.isUndefined(C)=
+?null:C;this.override=3DA;};YAHOO.util.Subscriber.prototype.getScope=3Dfunc=
+tion(A){if(this.override){if(this.override=3D=3D=3Dtrue){return this.obj;}e=
+lse{return this.override;}}return A;};YAHOO.util.Subscriber.prototype.conta=
+ins=3Dfunction(A,B){if(B){return(this.fn=3D=3DA&&this.obj=3D=3DB);}else{ret=
+urn(this.fn=3D=3DA);}};YAHOO.util.Subscriber.prototype.toString=3Dfunction(=
+){return"Subscriber { obj: "+this.obj+", override: "+(this.override||"no")+=
+" }";};if(!YAHOO.util.Event){YAHOO.util.Event=3Dfunction(){var H=3Dfalse;va=
+r I=3D[];var J=3D[];var G=3D[];var E=3D[];var C=3D0;var F=3D[];var B=3D[];v=
+ar A=3D0;var D=3D{63232:38,63233:40,63234:37,63235:39,63276:33,63277:34,25:=
+9};return{POLL_RETRYS:4000,POLL_INTERVAL:10,EL:0,TYPE:1,FN:2,WFN:3,UNLOAD_O=
+BJ:3,ADJ_SCOPE:4,OBJ:5,OVERRIDE:6,lastError:null,isSafari:YAHOO.env.ua.webk=
+it,webkit:YAHOO.env.ua.webkit,isIE:YAHOO.env.ua.ie,_interval:null,_dri:null=
+,DOMReady:false,startInterval:function(){if(!this._interval){var K=3Dthis;v=
+ar L=3Dfunction(){K._tryPreloadAttach();};this._interval=3DsetInterval(L,th=
+is.POLL_INTERVAL);}},onAvailable:function(P,M,Q,O,N){var K=3D(YAHOO.lang.is=
+String(P))?[P]:P;for(var L=3D0;L<K.length;L=3DL+1){F.push({id:K[L],fn:M,obj=
+:Q,override:O,checkReady:N});}C=3Dthis.POLL_RETRYS;this.startInterval();},o=
+nContentReady:function(M,K,N,L){this.onAvailable(M,K,N,L,true);},onDOMReady=
+:function(K,M,L){if(this.DOMReady){setTimeout(function(){var N=3Dwindow;if(=
+L){if(L=3D=3D=3Dtrue){N=3DM;}else{N=3DL;}}K.call(N,"DOMReady",[],M);},0);}e=
+lse{this.DOMReadyEvent.subscribe(K,M,L);}},addListener:function(M,K,V,Q,L){=
+if(!V||!V.call){return false;}if(this._isValidCollection(M)){var W=3Dtrue;f=
+or(var R=3D0,T=3DM.length;R<T;++R){W=3Dthis.on(M[R],K,V,Q,L)&&W;}return W;}=
+else{if(YAHOO.lang.isString(M)){var P=3Dthis.getEl(M);if(P){M=3DP;}else{thi=
+s.onAvailable(M,function(){YAHOO.util.Event.on(M,K,V,Q,L);});return true;}}=
+}if(!M){return false;}if("unload"=3D=3DK&&Q!=3D=3Dthis){J[J.length]=3D[M,K,=
+V,Q,L];return true;}var Y=3DM;if(L){if(L=3D=3D=3Dtrue){Y=3DQ;}else{Y=3DL;}}=
+var N=3Dfunction(Z){return V.call(Y,YAHOO.util.Event.getEvent(Z,M),Q);};var=
+ X=3D[M,K,V,N,Y,Q,L];var S=3DI.length;I[S]=3DX;if(this.useLegacyEvent(M,K))=
+{var O=3Dthis.getLegacyIndex(M,K);if(O=3D=3D-1||M!=3DG[O][0]){O=3DG.length;=
+B[M.id+K]=3DO;G[O]=3D[M,K,M["on"+K]];E[O]=3D[];M["on"+K]=3Dfunction(Z){YAHO=
+O.util.Event.fireLegacyEvent(YAHOO.util.Event.getEvent(Z),O);};}E[O].push(X=
+);}else{try{this._simpleAdd(M,K,N,false);}catch(U){this.lastError=3DU;this.=
+removeListener(M,K,V);return false;}}return true;},fireLegacyEvent:function=
+(O,M){var Q=3Dtrue,K,S,R,T,P;S=3DE[M];for(var L=3D0,N=3DS.length;L<N;++L){R=
+=3DS[L];if(R&&R[this.WFN]){T=3DR[this.ADJ_SCOPE];P=3DR[this.WFN].call(T,O);=
+Q=3D(Q&&P);}}K=3DG[M];if(K&&K[2]){K[2](O);}return Q;},getLegacyIndex:functi=
+on(L,M){var K=3Dthis.generateId(L)+M;if(typeof B[K]=3D=3D"undefined"){retur=
+n -1;}else{return B[K];}},useLegacyEvent:function(L,M){if(this.webkit&&("cl=
+ick"=3D=3DM||"dblclick"=3D=3DM)){var K=3DparseInt(this.webkit,10);if(!isNaN=
+(K)&&K<418){return true;}}return false;},removeListener:function(L,K,T){var=
+ O,R,V;if(typeof L=3D=3D"string"){L=3Dthis.getEl(L);}else{if(this._isValidC=
+ollection(L)){var U=3Dtrue;for(O=3D0,R=3DL.length;O<R;++O){U=3D(this.remove=
+Listener(L[O],K,T)&&U);}return U;}}if(!T||!T.call){return this.purgeElement=
+(L,false,K);}if("unload"=3D=3DK){for(O=3D0,R=3DJ.length;O<R;O++){V=3DJ[O];i=
+f(V&&V[0]=3D=3DL&&V[1]=3D=3DK&&V[2]=3D=3DT){J[O]=3Dnull;return true;}}retur=
+n false;}var P=3Dnull;var Q=3Darguments[3];if("undefined"=3D=3D=3Dtypeof Q)=
+{Q=3Dthis._getCacheIndex(L,K,T);}if(Q>=3D0){P=3DI[Q];}if(!L||!P){return fal=
+se;}if(this.useLegacyEvent(L,K)){var N=3Dthis.getLegacyIndex(L,K);var M=3DE=
+[N];if(M){for(O=3D0,R=3DM.length;O<R;++O){V=3DM[O];if(V&&V[this.EL]=3D=3DL&=
+&V[this.TYPE]=3D=3DK&&V[this.FN]=3D=3DT){M[O]=3Dnull;break;}}}}else{try{thi=
+s._simpleRemove(L,K,P[this.WFN],false);}catch(S){this.lastError=3DS;return =
+false;}}delete I[Q][this.WFN];delete I[Q][this.FN];I[Q]=3Dnull;return true;=
+},getTarget:function(M,L){var K=3DM.target||M.srcElement;return this.resolv=
+eTextNode(K);},resolveTextNode:function(K){if(K&&3=3D=3DK.nodeType){return =
+K.parentNode;}else{return K;}},getPageX:function(L){var K=3DL.pageX;if(!K&&=
+0!=3D=3DK){K=3DL.clientX||0;if(this.isIE){K+=3Dthis._getScrollLeft();}}retu=
+rn K;},getPageY:function(K){var L=3DK.pageY;if(!L&&0!=3D=3DL){L=3DK.clientY=
+||0;if(this.isIE){L+=3Dthis._getScrollTop();}}return L;},getXY:function(K){=
+return[this.getPageX(K),this.getPageY(K)];
+},getRelatedTarget:function(L){var K=3DL.relatedTarget;if(!K){if(L.type=3D=
+=3D"mouseout"){K=3DL.toElement;}else{if(L.type=3D=3D"mouseover"){K=3DL.from=
+Element;}}}return this.resolveTextNode(K);},getTime:function(M){if(!M.time)=
+{var L=3Dnew Date().getTime();try{M.time=3DL;}catch(K){this.lastError=3DK;r=
+eturn L;}}return M.time;},stopEvent:function(K){this.stopPropagation(K);thi=
+s.preventDefault(K);},stopPropagation:function(K){if(K.stopPropagation){K.s=
+topPropagation();}else{K.cancelBubble=3Dtrue;}},preventDefault:function(K){=
+if(K.preventDefault){K.preventDefault();}else{K.returnValue=3Dfalse;}},getE=
+vent:function(M,K){var L=3DM||window.event;if(!L){var N=3Dthis.getEvent.cal=
+ler;while(N){L=3DN.arguments[0];if(L&&Event=3D=3DL.constructor){break;}N=3D=
+N.caller;}}return L;},getCharCode:function(L){var K=3DL.keyCode||L.charCode=
+||0;if(YAHOO.env.ua.webkit&&(K in D)){K=3DD[K];}return K;},_getCacheIndex:f=
+unction(O,P,N){for(var M=3D0,L=3DI.length;M<L;++M){var K=3DI[M];if(K&&K[thi=
+s.FN]=3D=3DN&&K[this.EL]=3D=3DO&&K[this.TYPE]=3D=3DP){return M;}}return -1;=
+},generateId:function(K){var L=3DK.id;if(!L){L=3D"yuievtautoid-"+A;++A;K.id=
+=3DL;}return L;},_isValidCollection:function(L){try{return(L&&typeof L!=3D=
+=3D"string"&&L.length&&!L.tagName&&!L.alert&&typeof L[0]!=3D=3D"undefined")=
+;}catch(K){return false;}},elCache:{},getEl:function(K){return(typeof K=3D=
+=3D=3D"string")?document.getElementById(K):K;},clearCache:function(){},DOMR=
+eadyEvent:new YAHOO.util.CustomEvent("DOMReady",this),_load:function(L){if(=
+!H){H=3Dtrue;var K=3DYAHOO.util.Event;K._ready();K._tryPreloadAttach();}},_=
+ready:function(L){var K=3DYAHOO.util.Event;if(!K.DOMReady){K.DOMReady=3Dtru=
+e;K.DOMReadyEvent.fire();K._simpleRemove(document,"DOMContentLoaded",K._rea=
+dy);}},_tryPreloadAttach:function(){if(this.locked){return false;}if(this.i=
+sIE){if(!this.DOMReady){this.startInterval();return false;}}this.locked=3Dt=
+rue;var P=3D!H;if(!P){P=3D(C>0);}var O=3D[];var Q=3Dfunction(S,T){var R=3DS=
+;if(T.override){if(T.override=3D=3D=3Dtrue){R=3DT.obj;}else{R=3DT.override;=
+}}T.fn.call(R,T.obj);};var L,K,N,M;for(L=3D0,K=3DF.length;L<K;++L){N=3DF[L]=
+;if(N&&!N.checkReady){M=3Dthis.getEl(N.id);if(M){Q(M,N);F[L]=3Dnull;}else{O=
+.push(N);}}}for(L=3D0,K=3DF.length;L<K;++L){N=3DF[L];if(N&&N.checkReady){M=
+=3Dthis.getEl(N.id);if(M){if(H||M.nextSibling){Q(M,N);F[L]=3Dnull;}}else{O.=
+push(N);}}}C=3D(O.length=3D=3D=3D0)?0:C-1;if(P){this.startInterval();}else{=
+clearInterval(this._interval);this._interval=3Dnull;}this.locked=3Dfalse;re=
+turn true;},purgeElement:function(O,P,R){var M=3D(YAHOO.lang.isString(O))?t=
+his.getEl(O):O;var Q=3Dthis.getListeners(M,R),N,K;if(Q){for(N=3D0,K=3DQ.len=
+gth;N<K;++N){var L=3DQ[N];this.removeListener(M,L.type,L.fn,L.index);}}if(P=
+&&M&&M.childNodes){for(N=3D0,K=3DM.childNodes.length;N<K;++N){this.purgeEle=
+ment(M.childNodes[N],P,R);}}},getListeners:function(M,K){var P=3D[],L;if(!K=
+){L=3D[I,J];}else{if(K=3D=3D=3D"unload"){L=3D[J];}else{L=3D[I];}}var R=3D(Y=
+AHOO.lang.isString(M))?this.getEl(M):M;for(var O=3D0;O<L.length;O=3DO+1){va=
+r T=3DL[O];if(T&&T.length>0){for(var Q=3D0,S=3DT.length;Q<S;++Q){var N=3DT[=
+Q];if(N&&N[this.EL]=3D=3D=3DR&&(!K||K=3D=3D=3DN[this.TYPE])){P.push({type:N=
+[this.TYPE],fn:N[this.FN],obj:N[this.OBJ],adjust:N[this.OVERRIDE],scope:N[t=
+his.ADJ_SCOPE],index:Q});}}}}return(P.length)?P:null;},_unload:function(R){=
+var Q=3DYAHOO.util.Event,O,N,L,K,M;for(O=3D0,K=3DJ.length;O<K;++O){L=3DJ[O]=
+;if(L){var P=3Dwindow;if(L[Q.ADJ_SCOPE]){if(L[Q.ADJ_SCOPE]=3D=3D=3Dtrue){P=
+=3DL[Q.UNLOAD_OBJ];}else{P=3DL[Q.ADJ_SCOPE];}}L[Q.FN].call(P,Q.getEvent(R,L=
+[Q.EL]),L[Q.UNLOAD_OBJ]);J[O]=3Dnull;L=3Dnull;P=3Dnull;}}J=3Dnull;if(YAHOO.=
+env.ua.ie&&I&&I.length>0){N=3DI.length;while(N){M=3DN-1;L=3DI[M];if(L){Q.re=
+moveListener(L[Q.EL],L[Q.TYPE],L[Q.FN],M);}N--;}L=3Dnull;}G=3Dnull;Q._simpl=
+eRemove(window,"unload",Q._unload);},_getScrollLeft:function(){return this.=
+_getScroll()[1];},_getScrollTop:function(){return this._getScroll()[0];},_g=
+etScroll:function(){var K=3Ddocument.documentElement,L=3Ddocument.body;if(K=
+&&(K.scrollTop||K.scrollLeft)){return[K.scrollTop,K.scrollLeft];}else{if(L)=
+{return[L.scrollTop,L.scrollLeft];}else{return[0,0];}}},regCE:function(){},=
+_simpleAdd:function(){if(window.addEventListener){return function(M,N,L,K){=
+M.addEventListener(N,L,(K));};}else{if(window.attachEvent){return function(=
+M,N,L,K){M.attachEvent("on"+N,L);};}else{return function(){};}}}(),_simpleR=
+emove:function(){if(window.removeEventListener){return function(M,N,L,K){M.=
+removeEventListener(N,L,(K));};}else{if(window.detachEvent){return function=
+(L,M,K){L.detachEvent("on"+M,K);};}else{return function(){};}}}()};}();(fun=
+ction(){var A=3DYAHOO.util.Event;A.on=3DA.addListener;if(A.isIE){YAHOO.util=
+.Event.onDOMReady(YAHOO.util.Event._tryPreloadAttach,YAHOO.util.Event,true)=
+;A._dri=3DsetInterval(function(){var C=3Ddocument.createElement("p");try{C.=
+doScroll("left");clearInterval(A._dri);A._dri=3Dnull;A._ready();C=3Dnull;}c=
+atch(B){C=3Dnull;}},A.POLL_INTERVAL);}else{if(A.webkit){A._dri=3DsetInterva=
+l(function(){var B=3Ddocument.readyState;if("loaded"=3D=3DB||"complete"=3D=
+=3DB){clearInterval(A._dri);A._dri=3Dnull;A._ready();}},A.POLL_INTERVAL);}e=
+lse{A._simpleAdd(document,"DOMContentLoaded",A._ready);}}A._simpleAdd(windo=
+w,"load",A._load);A._simpleAdd(window,"unload",A._unload);A._tryPreloadAtta=
+ch();})();}YAHOO.util.EventProvider=3Dfunction(){};YAHOO.util.EventProvider=
+.prototype=3D{__yui_events:null,__yui_subscribers:null,subscribe:function(A=
+,C,F,E){this.__yui_events=3Dthis.__yui_events||{};var D=3Dthis.__yui_events=
+[A];if(D){D.subscribe(C,F,E);}else{this.__yui_subscribers=3Dthis.__yui_subs=
+cribers||{};var B=3Dthis.__yui_subscribers;if(!B[A]){B[A]=3D[];}B[A].push({=
+fn:C,obj:F,override:E});}},unsubscribe:function(C,E,G){this.__yui_events=3D=
+this.__yui_events||{};var A=3Dthis.__yui_events;if(C){var F=3DA[C];if(F){re=
+turn F.unsubscribe(E,G);}}else{var B=3Dtrue;for(var D in A){if(YAHOO.lang.h=
+asOwnProperty(A,D)){B=3DB&&A[D].unsubscribe(E,G);}}return B;}return false;}=
+,unsubscribeAll:function(A){return this.unsubscribe(A);},createEvent:functi=
+on(G,D){this.__yui_events=3Dthis.__yui_events||{};var A=3DD||{};var I=3Dthi=
+s.__yui_events;if(I[G]){}else{var H=3DA.scope||this;var E=3D(A.silent);var =
+B=3Dnew YAHOO.util.CustomEvent(G,H,E,YAHOO.util.CustomEvent.FLAT);I[G]=3DB;=
+if(A.onSubscribeCallback){B.subscribeEvent.subscribe(A.onSubscribeCallback)=
+;}this.__yui_subscribers=3Dthis.__yui_subscribers||{};
+var F=3Dthis.__yui_subscribers[G];if(F){for(var C=3D0;C<F.length;++C){B.sub=
+scribe(F[C].fn,F[C].obj,F[C].override);}}}return I[G];},fireEvent:function(=
+E,D,A,C){this.__yui_events=3Dthis.__yui_events||{};var G=3Dthis.__yui_event=
+s[E];if(!G){return null;}var B=3D[];for(var F=3D1;F<arguments.length;++F){B=
+.push(arguments[F]);}return G.fire.apply(G,B);},hasEvent:function(A){if(thi=
+s.__yui_events){if(this.__yui_events[A]){return true;}}return false;}};YAHO=
+O.util.KeyListener=3Dfunction(A,F,B,C){if(!A){}else{if(!F){}else{if(!B){}}}=
+if(!C){C=3DYAHOO.util.KeyListener.KEYDOWN;}var D=3Dnew YAHOO.util.CustomEve=
+nt("keyPressed");this.enabledEvent=3Dnew YAHOO.util.CustomEvent("enabled");=
+this.disabledEvent=3Dnew YAHOO.util.CustomEvent("disabled");if(typeof A=3D=
+=3D"string"){A=3Ddocument.getElementById(A);}if(typeof B=3D=3D"function"){D=
+.subscribe(B);}else{D.subscribe(B.fn,B.scope,B.correctScope);}function E(J,=
+I){if(!F.shift){F.shift=3Dfalse;}if(!F.alt){F.alt=3Dfalse;}if(!F.ctrl){F.ct=
+rl=3Dfalse;}if(J.shiftKey=3D=3DF.shift&&J.altKey=3D=3DF.alt&&J.ctrlKey=3D=
+=3DF.ctrl){var G;if(F.keys instanceof Array){for(var H=3D0;H<F.keys.length;=
+H++){G=3DF.keys[H];if(G=3D=3DJ.charCode){D.fire(J.charCode,J);break;}else{i=
+f(G=3D=3DJ.keyCode){D.fire(J.keyCode,J);break;}}}}else{G=3DF.keys;if(G=3D=
+=3DJ.charCode){D.fire(J.charCode,J);}else{if(G=3D=3DJ.keyCode){D.fire(J.key=
+Code,J);}}}}}this.enable=3Dfunction(){if(!this.enabled){YAHOO.util.Event.ad=
+dListener(A,C,E);this.enabledEvent.fire(F);}this.enabled=3Dtrue;};this.disa=
+ble=3Dfunction(){if(this.enabled){YAHOO.util.Event.removeListener(A,C,E);th=
+is.disabledEvent.fire(F);}this.enabled=3Dfalse;};this.toString=3Dfunction()=
+{return"KeyListener ["+F.keys+"] "+A.tagName+(A.id?"["+A.id+"]":"");};};YAH=
+OO.util.KeyListener.KEYDOWN=3D"keydown";YAHOO.util.KeyListener.KEYUP=3D"key=
+up";YAHOO.util.KeyListener.KEY=3D{ALT:18,BACK_SPACE:8,CAPS_LOCK:20,CONTROL:=
+17,DELETE:46,DOWN:40,END:35,ENTER:13,ESCAPE:27,HOME:36,LEFT:37,META:224,NUM=
+_LOCK:144,PAGE_DOWN:34,PAGE_UP:33,PAUSE:19,PRINTSCREEN:44,RIGHT:39,SCROLL_L=
+OCK:145,SHIFT:16,SPACE:32,TAB:9,UP:38};YAHOO.register("event",YAHOO.util.Ev=
+ent,{version:"2.4.1",build:"742"});YAHOO.register("yahoo-dom-event", YAHOO,=
+ {version: "2.4.1", build: "742"});
+
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/plain; charset=Cp1252
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/element/element-beta-min.js
+
+/*
+Copyright (c) 2007, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.4.1
+*/
+YAHOO.util.Attribute=3Dfunction(B,A){if(A){this.owner=3DA;this.configure(B,=
+true);}};YAHOO.util.Attribute.prototype=3D{name:undefined,value:null,owner:=
+null,readOnly:false,writeOnce:false,_initialConfig:null,_written:false,meth=
+od:null,validator:null,getValue:function(){return this.value;},setValue:fun=
+ction(F,B){var E;var A=3Dthis.owner;var C=3Dthis.name;var D=3D{type:C,prevV=
+alue:this.getValue(),newValue:F};if(this.readOnly||(this.writeOnce&&this._w=
+ritten)){return false;}if(this.validator&&!this.validator.call(A,F)){return=
+ false;}if(!B){E=3DA.fireBeforeChangeEvent(D);if(E=3D=3D=3Dfalse){return fa=
+lse;}}if(this.method){this.method.call(A,F);}this.value=3DF;this._written=
+=3Dtrue;D.type=3DC;if(!B){this.owner.fireChangeEvent(D);}return true;},conf=
+igure:function(B,C){B=3DB||{};this._written=3Dfalse;this._initialConfig=3Dt=
+his._initialConfig||{};for(var A in B){if(A&&YAHOO.lang.hasOwnProperty(B,A)=
+){this[A]=3DB[A];if(C){this._initialConfig[A]=3DB[A];}}}},resetValue:functi=
+on(){return this.setValue(this._initialConfig.value);},resetConfig:function=
+(){this.configure(this._initialConfig);},refresh:function(A){this.setValue(=
+this.value,A);}};(function(){var A=3DYAHOO.util.Lang;YAHOO.util.AttributePr=
+ovider=3Dfunction(){};YAHOO.util.AttributeProvider.prototype=3D{_configs:nu=
+ll,get:function(C){this._configs=3Dthis._configs||{};var B=3Dthis._configs[=
+C];if(!B){return undefined;}return B.value;},set:function(D,E,B){this._conf=
+igs=3Dthis._configs||{};var C=3Dthis._configs[D];if(!C){return false;}retur=
+n C.setValue(E,B);},getAttributeKeys:function(){this._configs=3Dthis._confi=
+gs;var D=3D[];var B;for(var C in this._configs){B=3Dthis._configs[C];if(A.h=
+asOwnProperty(this._configs,C)&&!A.isUndefined(B)){D[D.length]=3DC;}}return=
+ D;},setAttributes:function(D,B){for(var C in D){if(A.hasOwnProperty(D,C)){=
+this.set(C,D[C],B);}}},resetValue:function(C,B){this._configs=3Dthis._confi=
+gs||{};if(this._configs[C]){this.set(C,this._configs[C]._initialConfig.valu=
+e,B);return true;}return false;},refresh:function(E,C){this._configs=3Dthis=
+._configs;E=3D((A.isString(E))?[E]:E)||this.getAttributeKeys();for(var D=3D=
+0,B=3DE.length;D<B;++D){if(this._configs[E[D]]&&!A.isUndefined(this._config=
+s[E[D]].value)&&!A.isNull(this._configs[E[D]].value)){this._configs[E[D]].r=
+efresh(C);}}},register:function(B,C){this.setAttributeConfig(B,C);},getAttr=
+ibuteConfig:function(C){this._configs=3Dthis._configs||{};var B=3Dthis._con=
+figs[C]||{};var D=3D{};for(C in B){if(A.hasOwnProperty(B,C)){D[C]=3DB[C];}}=
+return D;},setAttributeConfig:function(B,C,D){this._configs=3Dthis._configs=
+||{};C=3DC||{};if(!this._configs[B]){C.name=3DB;this._configs[B]=3Dthis.cre=
+ateAttribute(C);}else{this._configs[B].configure(C,D);}},configureAttribute=
+:function(B,C,D){this.setAttributeConfig(B,C,D);},resetAttributeConfig:func=
+tion(B){this._configs=3Dthis._configs||{};this._configs[B].resetConfig();},=
+subscribe:function(B,C){this._events=3Dthis._events||{};if(!(B in this._eve=
+nts)){this._events[B]=3Dthis.createEvent(B);}YAHOO.util.EventProvider.proto=
+type.subscribe.apply(this,arguments);},on:function(){this.subscribe.apply(t=
+his,arguments);},addListener:function(){this.subscribe.apply(this,arguments=
+);},fireBeforeChangeEvent:function(C){var B=3D"before";B+=3DC.type.charAt(0=
+).toUpperCase()+C.type.substr(1)+"Change";C.type=3DB;return this.fireEvent(=
+C.type,C);},fireChangeEvent:function(B){B.type+=3D"Change";return this.fire=
+Event(B.type,B);},createAttribute:function(B){return new YAHOO.util.Attribu=
+te(B,this);}};YAHOO.augment(YAHOO.util.AttributeProvider,YAHOO.util.EventPr=
+ovider);})();(function(){var D=3DYAHOO.util.Dom,F=3DYAHOO.util.AttributePro=
+vider;YAHOO.util.Element=3Dfunction(G,H){if(arguments.length){this.init(G,H=
+);}};YAHOO.util.Element.prototype=3D{DOM_EVENTS:null,appendChild:function(G=
+){G=3DG.get?G.get("element"):G;this.get("element").appendChild(G);},getElem=
+entsByTagName:function(G){return this.get("element").getElementsByTagName(G=
+);},hasChildNodes:function(){return this.get("element").hasChildNodes();},i=
+nsertBefore:function(G,H){G=3DG.get?G.get("element"):G;H=3D(H&&H.get)?H.get=
+("element"):H;this.get("element").insertBefore(G,H);},removeChild:function(=
+G){G=3DG.get?G.get("element"):G;this.get("element").removeChild(G);return t=
+rue;},replaceChild:function(G,H){G=3DG.get?G.get("element"):G;H=3DH.get?H.g=
+et("element"):H;return this.get("element").replaceChild(G,H);},initAttribut=
+es:function(G){},addListener:function(K,J,L,I){var H=3Dthis.get("element");=
+I=3DI||this;H=3Dthis.get("id")||H;var G=3Dthis;if(!this._events[K]){if(this=
+.DOM_EVENTS[K]){YAHOO.util.Event.addListener(H,K,function(M){if(M.srcElemen=
+t&&!M.target){M.target=3DM.srcElement;}G.fireEvent(K,M);},L,I);}this.create=
+Event(K,this);}YAHOO.util.EventProvider.prototype.subscribe.apply(this,argu=
+ments);},on:function(){this.addListener.apply(this,arguments);},subscribe:f=
+unction(){this.addListener.apply(this,arguments);},removeListener:function(=
+H,G){this.unsubscribe.apply(this,arguments);},addClass:function(G){D.addCla=
+ss(this.get("element"),G);},getElementsByClassName:function(H,G){return D.g=
+etElementsByClassName(H,G,this.get("element"));},hasClass:function(G){retur=
+n D.hasClass(this.get("element"),G);},removeClass:function(G){return D.remo=
+veClass(this.get("element"),G);},replaceClass:function(H,G){return D.replac=
+eClass(this.get("element"),H,G);},setStyle:function(I,H){var G=3Dthis.get("=
+element");if(!G){return this._queue[this._queue.length]=3D["setStyle",argum=
+ents];}return D.setStyle(G,I,H);},getStyle:function(G){return D.getStyle(th=
+is.get("element"),G);},fireQueue:function(){var H=3Dthis._queue;for(var I=
+=3D0,G=3DH.length;I<G;++I){this[H[I][0]].apply(this,H[I][1]);}},appendTo:fu=
+nction(H,I){H=3D(H.get)?H.get("element"):D.get(H);this.fireEvent("beforeApp=
+endTo",{type:"beforeAppendTo",target:H});I=3D(I&&I.get)?I.get("element"):D.=
+get(I);var G=3Dthis.get("element");if(!G){return false;}if(!H){return false=
+;}if(G.parent!=3DH){if(I){H.insertBefore(G,I);}else{H.appendChild(G);}}this=
+.fireEvent("appendTo",{type:"appendTo",target:H});},get:function(G){var I=
+=3Dthis._configs||{};var H=3DI.element;if(H&&!I[G]&&!YAHOO.lang.isUndefined=
+(H.value[G])){return H.value[G];}return F.prototype.get.call(this,G);},setA=
+ttributes:function(L,H){var K=3Dthis.get("element");
+for(var J in L){if(!this._configs[J]&&!YAHOO.lang.isUndefined(K[J])){this.s=
+etAttributeConfig(J);}}for(var I=3D0,G=3Dthis._configOrder.length;I<G;++I){=
+if(L[this._configOrder[I]]){this.set(this._configOrder[I],L[this._configOrd=
+er[I]],H);}}},set:function(H,J,G){var I=3Dthis.get("element");if(!I){this._=
+queue[this._queue.length]=3D["set",arguments];if(this._configs[H]){this._co=
+nfigs[H].value=3DJ;}return ;}if(!this._configs[H]&&!YAHOO.lang.isUndefined(=
+I[H])){C.call(this,H);}return F.prototype.set.apply(this,arguments);},setAt=
+tributeConfig:function(G,I,J){var H=3Dthis.get("element");if(H&&!this._conf=
+igs[G]&&!YAHOO.lang.isUndefined(H[G])){C.call(this,G,I);}else{F.prototype.s=
+etAttributeConfig.apply(this,arguments);}this._configOrder.push(G);},getAtt=
+ributeKeys:function(){var H=3Dthis.get("element");var I=3DF.prototype.getAt=
+tributeKeys.call(this);for(var G in H){if(!this._configs[G]){I[G]=3DI[G]||H=
+[G];}}return I;},createEvent:function(H,G){this._events[H]=3Dtrue;F.prototy=
+pe.createEvent.apply(this,arguments);},init:function(H,G){A.apply(this,argu=
+ments);}};var A=3Dfunction(H,G){this._queue=3Dthis._queue||[];this._events=
+=3Dthis._events||{};this._configs=3Dthis._configs||{};this._configOrder=3D[=
+];G=3DG||{};G.element=3DG.element||H||null;this.DOM_EVENTS=3D{"click":true,=
+"dblclick":true,"keydown":true,"keypress":true,"keyup":true,"mousedown":tru=
+e,"mousemove":true,"mouseout":true,"mouseover":true,"mouseup":true,"focus":=
+true,"blur":true,"submit":true};var I=3Dfalse;if(YAHOO.lang.isString(H)){C.=
+call(this,"id",{value:G.element});}if(D.get(H)){I=3Dtrue;E.call(this,G);B.c=
+all(this,G);}YAHOO.util.Event.onAvailable(G.element,function(){if(!I){E.cal=
+l(this,G);}this.fireEvent("available",{type:"available",target:G.element});=
+},this,true);YAHOO.util.Event.onContentReady(G.element,function(){if(!I){B.=
+call(this,G);}this.fireEvent("contentReady",{type:"contentReady",target:G.e=
+lement});},this,true);};var E=3Dfunction(G){this.setAttributeConfig("elemen=
+t",{value:D.get(G.element),readOnly:true});};var B=3Dfunction(G){this.initA=
+ttributes(G);this.setAttributes(G,true);this.fireQueue();};var C=3Dfunction=
+(G,I){var H=3Dthis.get("element");I=3DI||{};I.name=3DG;I.method=3DI.method|=
+|function(J){H[G]=3DJ;};I.value=3DI.value||H[G];this._configs[G]=3Dnew YAHO=
+O.util.Attribute(I,this);};YAHOO.augment(YAHOO.util.Element,F);})();YAHOO.r=
+egister("element",YAHOO.util.Element,{version:"2.4.1",build:"742"});
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/plain; charset=Cp1252
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/tabview/tabview-min.js
+
+/*
+Copyright (c) 2007, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.4.1
+*/
+(function(){YAHOO.widget.TabView=3Dfunction(K,J){J=3DJ||{};if(arguments.len=
+gth=3D=3D1&&!YAHOO.lang.isString(K)&&!K.nodeName){J=3DK;K=3DJ.element||null=
+;}if(!K&&!J.element){K=3DI.call(this,J);}YAHOO.widget.TabView.superclass.co=
+nstructor.call(this,K,J);};YAHOO.extend(YAHOO.widget.TabView,YAHOO.util.Ele=
+ment);var F=3DYAHOO.widget.TabView.prototype;var E=3DYAHOO.util.Dom;var H=
+=3DYAHOO.util.Event;var D=3DYAHOO.widget.Tab;F.CLASSNAME=3D"yui-navset";F.T=
+AB_PARENT_CLASSNAME=3D"yui-nav";F.CONTENT_PARENT_CLASSNAME=3D"yui-content";=
+F._tabParent=3Dnull;F._contentParent=3Dnull;F.addTab=3Dfunction(M,O){var P=
+=3Dthis.get("tabs");if(!P){this._queue[this._queue.length]=3D["addTab",argu=
+ments];return false;}O=3D(O=3D=3D=3Dundefined)?P.length:O;var R=3Dthis.getT=
+ab(O);var T=3Dthis;var L=3Dthis.get("element");var S=3Dthis._tabParent;var =
+Q=3Dthis._contentParent;var J=3DM.get("element");var K=3DM.get("contentEl")=
+;if(R){S.insertBefore(J,R.get("element"));}else{S.appendChild(J);}if(K&&!E.=
+isAncestor(Q,K)){Q.appendChild(K);}if(!M.get("active")){M.set("contentVisib=
+le",false,true);}else{this.set("activeTab",M,true);}var N=3Dfunction(V){YAH=
+OO.util.Event.preventDefault(V);var U=3Dfalse;if(this=3D=3DT.get("activeTab=
+")){U=3Dtrue;}T.set("activeTab",this,U);};M.addListener(M.get("activationEv=
+ent"),N);M.addListener("activationEventChange",function(U){if(U.prevValue!=
+=3DU.newValue){M.removeListener(U.prevValue,N);M.addListener(U.newValue,N);=
+}});P.splice(O,0,M);};F.DOMEventHandler=3Dfunction(P){var K=3Dthis.get("ele=
+ment");var Q=3DYAHOO.util.Event.getTarget(P);var S=3Dthis._tabParent;if(E.i=
+sAncestor(S,Q)){var L;var M=3Dnull;var J;var R=3Dthis.get("tabs");for(var N=
+=3D0,O=3DR.length;N<O;N++){L=3DR[N].get("element");J=3DR[N].get("contentEl"=
+);if(Q=3D=3DL||E.isAncestor(L,Q)){M=3DR[N];break;}}if(M){M.fireEvent(P.type=
+,P);}}};F.getTab=3Dfunction(J){return this.get("tabs")[J];};F.getTabIndex=
+=3Dfunction(N){var K=3Dnull;var M=3Dthis.get("tabs");for(var L=3D0,J=3DM.le=
+ngth;L<J;++L){if(N=3D=3DM[L]){K=3DL;break;}}return K;};F.removeTab=3Dfuncti=
+on(M){var L=3Dthis.get("tabs").length;var K=3Dthis.getTabIndex(M);var J=3DK=
++1;if(M=3D=3Dthis.get("activeTab")){if(L>1){if(K+1=3D=3DL){this.set("active=
+Index",K-1);}else{this.set("activeIndex",K+1);}}}this._tabParent.removeChil=
+d(M.get("element"));this._contentParent.removeChild(M.get("contentEl"));thi=
+s._configs.tabs.value.splice(K,1);};F.toString=3Dfunction(){var J=3Dthis.ge=
+t("id")||this.get("tagName");return"TabView "+J;};F.contentTransition=3Dfun=
+ction(K,J){K.set("contentVisible",true);J.set("contentVisible",false);};F.i=
+nitAttributes=3Dfunction(J){YAHOO.widget.TabView.superclass.initAttributes.=
+call(this,J);if(!J.orientation){J.orientation=3D"top";}var L=3Dthis.get("el=
+ement");if(!YAHOO.util.Dom.hasClass(L,this.CLASSNAME)){YAHOO.util.Dom.addCl=
+ass(L,this.CLASSNAME);}this.setAttributeConfig("tabs",{value:[],readOnly:tr=
+ue});this._tabParent=3Dthis.getElementsByClassName(this.TAB_PARENT_CLASSNAM=
+E,"ul")[0]||G.call(this);this._contentParent=3Dthis.getElementsByClassName(=
+this.CONTENT_PARENT_CLASSNAME,"div")[0]||C.call(this);this.setAttributeConf=
+ig("orientation",{value:J.orientation,method:function(M){var N=3Dthis.get("=
+orientation");this.addClass("yui-navset-"+M);if(N!=3DM){this.removeClass("y=
+ui-navset-"+N);}switch(M){case"bottom":this.appendChild(this._tabParent);br=
+eak;}}});this.setAttributeConfig("activeIndex",{value:J.activeIndex,method:=
+function(M){this.set("activeTab",this.getTab(M));},validator:function(M){re=
+turn !this.getTab(M).get("disabled");}});this.setAttributeConfig("activeTab=
+",{value:J.activeTab,method:function(N){var M=3Dthis.get("activeTab");if(N)=
+{N.set("active",true);this._configs["activeIndex"].value=3Dthis.getTabIndex=
+(N);}if(M&&M!=3DN){M.set("active",false);}if(M&&N!=3DM){this.contentTransit=
+ion(N,M);}else{if(N){N.set("contentVisible",true);}}},validator:function(M)=
+{return !M.get("disabled");}});if(this._tabParent){B.call(this);}this.DOM_E=
+VENTS.submit=3Dfalse;this.DOM_EVENTS.focus=3Dfalse;this.DOM_EVENTS.blur=3Df=
+alse;for(var K in this.DOM_EVENTS){if(YAHOO.lang.hasOwnProperty(this.DOM_EV=
+ENTS,K)){this.addListener.call(this,K,this.DOMEventHandler);}}};var B=3Dfun=
+ction(){var Q,L,P;var O=3Dthis.get("element");var N=3DA(this._tabParent);va=
+r K=3DA(this._contentParent);for(var M=3D0,J=3DN.length;M<J;++M){L=3D{};if(=
+K[M]){L.contentEl=3DK[M];}Q=3Dnew YAHOO.widget.Tab(N[M],L);this.addTab(Q);i=
+f(Q.hasClass(Q.ACTIVE_CLASSNAME)){this._configs.activeTab.value=3DQ;this._c=
+onfigs.activeIndex.value=3Dthis.getTabIndex(Q);}}};var I=3Dfunction(J){var =
+K=3Ddocument.createElement("div");if(this.CLASSNAME){K.className=3Dthis.CLA=
+SSNAME;}return K;};var G=3Dfunction(J){var K=3Ddocument.createElement("ul")=
+;if(this.TAB_PARENT_CLASSNAME){K.className=3Dthis.TAB_PARENT_CLASSNAME;}thi=
+s.get("element").appendChild(K);return K;};var C=3Dfunction(J){var K=3Ddocu=
+ment.createElement("div");if(this.CONTENT_PARENT_CLASSNAME){K.className=3Dt=
+his.CONTENT_PARENT_CLASSNAME;}this.get("element").appendChild(K);return K;}=
+;var A=3Dfunction(M){var K=3D[];var N=3DM.childNodes;for(var L=3D0,J=3DN.le=
+ngth;L<J;++L){if(N[L].nodeType=3D=3D1){K[K.length]=3DN[L];}}return K;};})()=
+;(function(){var E=3DYAHOO.util.Dom,J=3DYAHOO.util.Event;var B=3Dfunction(L=
+,K){K=3DK||{};if(arguments.length=3D=3D1&&!YAHOO.lang.isString(L)&&!L.nodeN=
+ame){K=3DL;L=3DK.element;}if(!L&&!K.element){L=3DH.call(this,K);}this.loadH=
+andler=3D{success:function(M){this.set("content",M.responseText);},failure:=
+function(M){}};B.superclass.constructor.call(this,L,K);this.DOM_EVENTS=3D{}=
+;};YAHOO.extend(B,YAHOO.util.Element);var F=3DB.prototype;F.LABEL_TAGNAME=
+=3D"em";F.ACTIVE_CLASSNAME=3D"selected";F.DISABLED_CLASSNAME=3D"disabled";F=
+.LOADING_CLASSNAME=3D"loading";F.dataConnection=3Dnull;F.loadHandler=3Dnull=
+;F._loading=3Dfalse;F.toString=3Dfunction(){var K=3Dthis.get("element");var=
+ L=3DK.id||K.tagName;return"Tab "+L;};F.initAttributes=3Dfunction(K){K=3DK|=
+|{};B.superclass.initAttributes.call(this,K);var M=3Dthis.get("element");th=
+is.setAttributeConfig("activationEvent",{value:K.activationEvent||"click"})=
+;this.setAttributeConfig("labelEl",{value:K.labelEl||G.call(this),method:fu=
+nction(N){var O=3Dthis.get("labelEl");if(O){if(O=3D=3DN){return false;}this=
+.replaceChild(N,O);}else{if(M.firstChild){this.insertBefore(N,M.firstChild)=
+;}else{this.appendChild(N);}}}});this.setAttributeConfig("label",{value:K.l=
+abel||D.call(this),method:function(O){var N=3Dthis.get("labelEl");
+if(!N){this.set("labelEl",I.call(this));}C.call(this,O);}});this.setAttribu=
+teConfig("contentEl",{value:K.contentEl||document.createElement("div"),meth=
+od:function(N){var O=3Dthis.get("contentEl");if(O){if(O=3D=3DN){return fals=
+e;}this.replaceChild(N,O);}}});this.setAttributeConfig("content",{value:K.c=
+ontent,method:function(N){this.get("contentEl").innerHTML=3DN;}});var L=3Df=
+alse;this.setAttributeConfig("dataSrc",{value:K.dataSrc});this.setAttribute=
+Config("cacheData",{value:K.cacheData||false,validator:YAHOO.lang.isBoolean=
+});this.setAttributeConfig("loadMethod",{value:K.loadMethod||"GET",validato=
+r:YAHOO.lang.isString});this.setAttributeConfig("dataLoaded",{value:false,v=
+alidator:YAHOO.lang.isBoolean,writeOnce:true});this.setAttributeConfig("dat=
+aTimeout",{value:K.dataTimeout||null,validator:YAHOO.lang.isNumber});this.s=
+etAttributeConfig("active",{value:K.active||this.hasClass(this.ACTIVE_CLASS=
+NAME),method:function(N){if(N=3D=3D=3Dtrue){this.addClass(this.ACTIVE_CLASS=
+NAME);this.set("title","active");}else{this.removeClass(this.ACTIVE_CLASSNA=
+ME);this.set("title","");}},validator:function(N){return YAHOO.lang.isBoole=
+an(N)&&!this.get("disabled");}});this.setAttributeConfig("disabled",{value:=
+K.disabled||this.hasClass(this.DISABLED_CLASSNAME),method:function(N){if(N=
+=3D=3D=3Dtrue){E.addClass(this.get("element"),this.DISABLED_CLASSNAME);}els=
+e{E.removeClass(this.get("element"),this.DISABLED_CLASSNAME);}},validator:Y=
+AHOO.lang.isBoolean});this.setAttributeConfig("href",{value:K.href||this.ge=
+tElementsByTagName("a")[0].getAttribute("href",2)||"#",method:function(N){t=
+his.getElementsByTagName("a")[0].href=3DN;},validator:YAHOO.lang.isString})=
+;this.setAttributeConfig("contentVisible",{value:K.contentVisible,method:fu=
+nction(N){if(N){this.get("contentEl").style.display=3D"block";if(this.get("=
+dataSrc")){if(!this._loading&&!(this.get("dataLoaded")&&this.get("cacheData=
+"))){A.call(this);}}}else{this.get("contentEl").style.display=3D"none";}},v=
+alidator:YAHOO.lang.isBoolean});};var H=3Dfunction(K){var O=3Ddocument.crea=
+teElement("li");var L=3Ddocument.createElement("a");L.href=3DK.href||"#";O.=
+appendChild(L);var N=3DK.label||null;var M=3DK.labelEl||null;if(M){if(!N){N=
+=3DD.call(this,M);}}else{M=3DI.call(this);}L.appendChild(M);return O;};var =
+G=3Dfunction(){return this.getElementsByTagName(this.LABEL_TAGNAME)[0];};va=
+r I=3Dfunction(){var K=3Ddocument.createElement(this.LABEL_TAGNAME);return =
+K;};var C=3Dfunction(K){var L=3Dthis.get("labelEl");L.innerHTML=3DK;};var D=
+=3Dfunction(){var K,L=3Dthis.get("labelEl");if(!L){return undefined;}return=
+ L.innerHTML;};var A=3Dfunction(){if(!YAHOO.util.Connect){return false;}E.a=
+ddClass(this.get("contentEl").parentNode,this.LOADING_CLASSNAME);this._load=
+ing=3Dtrue;this.dataConnection=3DYAHOO.util.Connect.asyncRequest(this.get("=
+loadMethod"),this.get("dataSrc"),{success:function(K){this.loadHandler.succ=
+ess.call(this,K);this.set("dataLoaded",true);this.dataConnection=3Dnull;E.r=
+emoveClass(this.get("contentEl").parentNode,this.LOADING_CLASSNAME);this._l=
+oading=3Dfalse;},failure:function(K){this.loadHandler.failure.call(this,K);=
+this.dataConnection=3Dnull;E.removeClass(this.get("contentEl").parentNode,t=
+his.LOADING_CLASSNAME);this._loading=3Dfalse;},scope:this,timeout:this.get(=
+"dataTimeout")});};YAHOO.widget.Tab=3DB;})();YAHOO.register("tabview",YAHOO=
+.widget.TabView,{version:"2.4.1",build:"742"});
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/css; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/layoutResources/styles/formstyle.css
+
+select.singleSelect, select.multiSelect, input.inputField, input.dateField, input.timeField, textarea {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;;
+	color: #575038;
+	border: 1px solid #a99886;
+	
+}
+
+
+select.singleSelect {
+	vertical-align: middle;
+	width: 99%;
+	max-width: 99%;
+}
+
+select.multiSelect {
+	vertical-align: middle;
+	width: 99%;
+	max-width: 99%;
+}
+
+
+input.inputField {
+	vertical-align: middle;
+	padding: 1px;
+	width: 98%;
+}
+
+input.dateField {
+	vertical-align: middle;
+	padding: 1px;
+	width: 85px;
+}
+
+input.timeField {
+	vertical-align: middle;
+	padding: 1px;
+	width: 20px;
+}
+
+
+textarea {
+	width: 97%;
+	padding: 1px;
+}
+
+
+p.textarea {
+	margin: 5px 5px 5px 10px;
+}
+
+.radiobutton {
+	vertical-align: middle;
+	background: transparent;
+}
+
+
+
+.fieldLayout td.labelRight {
+	width: 20%;
+	text-align: right;
+}
+
+.mandatory {
+	background: #e5edf5;
+}
+
+ .disabled {
+   color: #575038;
+   background-color: #eee;
+}
+
+/* must be after disabled class to override the background colour */
+.checkbox {
+	vertical-align: middle;
+	background: transparent;
+}
+
+
+label, span.fieldLabel, div.fieldLabel {
+	padding-left: 10px;
+	display: block;
+}
+
+.labelRight label, .labelRight span.fieldLabel, div.fieldLabel {
+	float: right;	
+}
+
+label.mandatory, span.mandatory, div.mandatory {
+	background-color: transparent;
+	background-image: url(../images/bullet_mandatory.gif);
+	background-position: 0px 6px;
+	background-repeat: no-repeat;
+	border: 0px;
+}
+
+label.error, span.error, div.error  {
+	color: #a31b31 !important;
+	font-weight: bold;
+}
+
+label.disabled, span.disabled, div.disabled {
+	color: #AFACA0 !important; /*AB made labels greay when disabled */
+	background: url();
+	background-color: transparent;
+	font-weight: normal;
+}
+
+span.displayField {
+	background: url();
+}
+
+button { 
+	-moz-border-radius: 5px;
+}
+
+button.fullWidth {
+	width: 100%;
+}
+
+button.disabled {
+	color: #fff;
+	background: #ccc;
+	border: 1px solid #cfcfcf;
+}
+
+button.disabled:hover {
+	cursor: default;
+}
+
+
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/css; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/layoutResources/styles/layout.css
+
+body {
+	background: #ffffff;
+}
+
+/***************************************************
+TAB STYLING
+***************************************************/
+
+ul.panelTabs {
+   background: transparent;
+   text-align: left;
+   clear: both;
+   position: relative;
+   height: 23px;
+   list-style: none;
+   margin-left:0px;
+}
+
+ul.panelTabs li
+{
+   background: #6696c3;
+   float: left;
+   text-align: center;
+   font: normal 10px/23px verdana, arial, helvetica, sans-serif;
+   text-decoration: none;
+   color: #fff;
+   border-right: 1px solid #fff;
+   padding: 0px 10px 0px 10px;
+}
+
+ul.panelTabs li.current
+{
+   background: #2569ab;
+}
+
+ul.panelTabs li.tab a {
+   display: block;
+   text-decoration: none;
+   color: #fff;
+}
+
+ul.panelTabs li.error a {
+   display: block;
+   text-decoration: none;
+   color: #fff;
+}
+
+
+ul.panelTabs li a:hover {
+   background: #9FBDD9;
+   margin-left: -10px;
+   padding-left: 10px;
+   margin-right: -10px;
+   padding-right: 10px;
+   font: normal 10px/23px verdana, arial, helvetica, sans-serif;
+   text-decoration: none;
+   color: #fff;
+
+}
+
+ul.panelTabs li.currentError {
+	background: #a31b31;
+}
+ul.panelTabs li.error {
+	background: #d31b31;
+}
+
+ul.panelTabs li a:hover {
+   background: #2569ab;
+   text-decoration: none;
+   color: #fff;
+}
+
+ul.panelTabs li.error a:hover {
+   background: #a31b31;
+}
+
+ul.panelTabs li.disabled {
+	background: #dbdbdb;
+}
+
+#tabBarSubBar {
+	background: #2569ab;
+	font: normal 10px/24px helvetica, verdana, arial, sans-serif;
+	text-align: left;
+	color: #fff;
+	height: 24px;
+}
+
+#tabBarSubBar.error {
+	background: #a31b31;
+}
+
+.disabledSubPanelSubBar {
+   background: #dbdbdb;
+}
+
+/***************************************************
+Page Submit Loading Message
+***************************************************/
+
+#loadingMsgMask {
+	position: absolute;
+	z-index: 300;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: .4;
+	filter: alpha(opacity=10);
+	/* this hack is so it works in IE
+	 * I find setting the color in the css gives me more flexibility 
+	 * than the PNG solution.
+	 */
+	background-color:transparent !important;
+	background-color: #333333;
+	/* this hack is for opera support
+	 * you can uncomment the background-image if you don't care about opera.
+	 * this gives you the flexibility to use any bg color that you want, instead of the png
+	 */
+	background-image: url("../images/maskBG.png") !important; 
+	background-image:none;
+	background-repeat: repeat;
+	display:none;
+}
+
+#loadingMsgContainer {
+	position: absolute;
+	z-index: 301;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	display:none;
+	text-align: center;
+}
+
+#loadingMessage
+{
+	position: absolute;
+	z-index: 302;
+	top: 0px;
+	left: 0px;
+	display:none;
+	padding: 0px;
+
+}
+
+#loadingMessageFrame
+{
+	z-index: 303;
+}
+
+body#loadingBody ul {
+	list-style: none;
+	margin: 10px;
+	padding: 2px;
+}
+
+body#loadingBody {
+	font: normal 11px verdana, arial, helvetica, sans-serif;
+	background: #fff;
+}
+
+
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/css; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/styles/text.css
+
+/* Stylkesheet for all basic text and font settings */
+
+body {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    font: 8pt/16pt verdana, tahoma, arial, sans-serif;
+}
+
+form {
+	margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6, p, strong, div, form, acronym, label, table, td, th, span, a, hr, code, pre, hr {
+	background-repeat:no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6, strong, th{
+   font-family: Trebuchet MS, Arial, Tahoma;
+}
+
+p, #content, #supportingText {
+    font: 8pt/14pt Verdana, sans-serif;
+}
+
+hr {
+	background-color:#dddddd;
+}
+
+h1 { color:#003763 ; margin-top: 5px; font-size: 18pt; }
+h2 { color:#003763; }
+
+a:link, a:visited, a:hover, a:active {
+    font: 11px verdana, tahoma, arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #444444;
+}
+
+a:visited {
+    color: #666666;
+}
+
+a:hover, a:active {
+    color: #b8c271;
+}
+
+.helpPanel {
+   background-color: #f3f6fb;
+	border: 1px solid #a6b4db;
+	height: 100px;
+	position: absolute;
+   width: 250px;
+   visibility: hidden;
+   z-index: 2;
+}
+
+.helpTrigger{
+	float: right;
+	cursor: pointer;
+}
+
+ul.panelTabs li.tab a {
+display:inline;
+}
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/css; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/styles/application.css
+
+#header {
+	margin: 0px;
+	padding: 0px;
+	color: #eeeeee;
+	background: #0a3b76 url(../images/datasearch-bg.png) 0 0;
+}
+
+#bannerTop {
+	height: 124px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#bannerBottom {
+	border-bottom: 1px solid #A6B1BF;
+	vertical-align: top;
+	clear: both;
+	height:40px;
+	background:#0f4990;
+	border-top:1px solid #286caf;
+}
+
+#appHeading {
+	font-size: 14px;
+	font-family: Arial, Trebuchet MS, Tahoma;
+	font-weight: bold;
+	color: #eeeeee;
+	padding: 0px 0px 0px 3px;
+	float: left;
+	margin-top:13px;
+}
+
+#appHeadingUserWelcome {
+	font-size: 14px;
+	font-family: Arial, Trebuchet MS, Tahoma;
+	font-weight: normal;
+	color: #eeeeee;
+	padding: 0px 0px 0px 20px;
+}
+
+#dataSearch{
+	float:left;
+	padding:30px 0 0 15px;
+}
+
+#dataVic{
+	float:right;
+	padding:45px 40px 0 0;
+}
+
+#vicGov {
+	border: 0px;
+	margin: 0px;
+	float:right;
+	padding:45px 40px 0 0;
+}
+
+#landVic {
+	float: right;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#dataVic{
+	float:right;
+	padding:45px 40px 0 0;
+}
+
+#topNav {
+	float: right;
+}
+
+ul#siteLinks li a,
+ul#siteLinks li a:visited{
+	font-size:14px !important;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal !important;
+	padding-right:30px !important;
+}
+
+ul#siteLinks {
+	position: relative;;
+	list-style: none;
+	font-size:14px;
+	margin-top:13px;
+}
+
+ul#siteLinks li {
+	float: left;
+	padding-right: 3px;
+}
+
+#siteLinks li a:link,#siteLinks li a:visited {
+	color: #eeeeee;
+	padding-right: 3px;
+}
+
+#siteLinks li a:hover {
+	color: #cccccc;
+}
+
+#main {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	border-collapse:collapse;
+	cellpadding: 0px;
+	cellspacing: 0px;
+	border-spacing: 0;
+}
+
+#navbar {
+	width:150px;
+	background-color: #f3f6fb;
+	border-right: 1px solid #a6b4db;
+	/*border-bottom: 1px solid #a6b4db;*/
+	line-height:17px;
+/* Again, the ugly brilliant hack. */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	font: 12px arial, sans-serif;
+	vertical-align:top;
+	}
+/* Again, "be nice to Opera 5". */
+body>#navbar {width:170px;}
+
+
+#content {
+	vertical-align:top;
+	margin:0px 0px 0px 220px;
+	padding:10px;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 44px;
+	border-top: 1px solid #a6b4db;
+}
+
+/* #########################################
+   Navigation style
+   #########################################*/
+#nav,#nav ul {
+	padding: 0px;
+	margin: 0 0 0 0;
+	list-style: none;
+	float: left;
+	width: 99%;
+}
+
+#nav li {
+	position: relative;
+	float: left;
+	line-height: 1.8em;
+	margin-bottom: -1px;
+	width: 95%;
+	padding: 0px 0px 1px 0px;
+}
+
+#nav li a {
+	line-height: 1.8em;
+	width: 100%;
+	display: block;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	background-color: #eaeaf8;
+	border: 1px solid #c3d3e3;
+	border-top: 1px solid #ffffff;
+	border-right: 1px;
+	padding: 2px 3px 2px 6px;
+}
+
+#nav li a:hover {
+	color: #000000;
+	padding-left: 4px;
+	padding-right: 3px;
+	background-color: #f3f6fb;
+	border-left: 3px solid #c07300;
+	border-right: 1px solid #7684ab;
+	width: 100%;
+	z-index: 9999;
+}
+
+.mainSearchLayoutTable {
+	width: 100%;
+}
+
+.mainSearchLayoutTable td {
+	vertical-align: top;
+}
+
+.searchFormTable, .createOrderTable {
+	width: 350px;
+	vertical-align: top;
+	border-collapse: collapse;
+}
+
+.searchFormTable td {
+	padding-bottom: 5px;
+}
+
+.searchWhatWhereTable{
+	width: 330px;
+	vertical-align: top;
+	border: 1px solid #BBBBBB;
+}
+
+.searchWhatWhereTable th {
+	padding: 0px;
+	width: 20px;               /*  was 70 px  */
+}
+
+.searchWhereWhatHeading {
+	font: 12pt Arial;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+td.sdmSearchElement, td.sdmSearchElement input {
+	width: 270px;               /*  was 200 px  */
+}
+
+td.sdmSearchHelpColumn {
+	width: 70px;
+	vertical-align: top;
+}
+
+td#sdmSearchPreview {
+	width: 65px;
+}
+
+td#sdmProceedOrder {
+	width: 65px;
+}
+
+div#sdmSearchProviderFilter {
+	/* float: right; */
+	text-align: left;
+}
+
+div#sdmSearchTypeFilter {
+	text-align: left;
+}
+
+div#sdmSearchOrderableFilter {
+	text-align: left;
+}
+
+button#sdmSearchPreviewButton {
+	float: right;
+}
+
+button#sdmProceedOrderButton {
+	float: right;
+}
+
+.defaultButton {
+	font: 9pt Arial;
+	font-family: Arial;
+}
+
+.attentionMessage {
+	font: 10px arial, sans-serif;
+	font-family: Arial, sans-serif;;
+	color:#003366;
+	font-weight: bold;
+}
+
+.orderFormTable {
+	width: 700px;
+}
+
+.orderFormTable tr th {
+	padding: 0px;
+	width: 100px;
+	text-align: right;
+}
+
+/* style for list tables */
+table.listTable, div.listTable table {
+	border: 1px solid #bbbbbb;
+	/*border-collapse: collapse;*/
+	/*width: 100%;*/
+	margin-top: 10px;
+}
+
+table.listTable td, div.listTable table td {
+	padding: 2px 3px 2px 3px;
+}
+
+table.listTable td.labelCell{
+	font-weight: bold;
+	width: 200px;
+	vertical-align: top;
+}
+
+table.listTable th.sorted {
+	background-color: #a9b8c7;
+}
+
+table.listTable th.sorted a,table.listTable th.sortable a {
+	background-position: right;
+	display: block;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+table.listTable th.sortable a {
+	background-image: url(../images/arrow_off.png);
+}
+
+table.listTable th.order1 a {
+	background-image: url(../images/arrow_down.png);
+}
+
+table.listTable th.order2 a {
+	background-image: url(../images/arrow_up.png);
+}
+
+table.listTable th, div.listTable table th{
+	background-color: #899BE5;
+	padding: 3px;
+	border: 1px solid #aaaaaa;
+	text-align: left;
+}
+
+table.listTable tr.even, div.listTable table tr.yui-dt-even {
+	background: #e2e7eb;
+	border-top: 1px solid silver;
+}
+
+table.listTable tr.odd, div.listTable table tr.yui-dt-odd {
+	background: #f9fbfd;
+	border-top: 1px solid silver;
+}
+
+table.listTable tr.footer {
+	background: #b9c7d5;
+}
+
+div.listTable span.yui-dt-selected {
+   font-weight: bold;
+}
+
+div.listTable img {
+   border: none;
+}
+
+div.listTable .yui-dt-col-infoLink {
+	width: 3%;
+}
+
+div.listTable td.yui-dt-col-infoLink {
+	vertical-align: top;
+	text-align: center;
+}
+
+div.listTable .yui-dt-col-title {
+   width: 15%;
+}
+
+div.listTable td.yui-dt-col-title {
+   vertical-align: top;
+}
+
+div.listTable td.yui-dt-col-abstract {
+   vertical-align: top;
+}
+
+div.listTable .yui-dt-col-extractionProvider {
+   width: 6%;
+}
+
+div.listTable td.yui-dt-col-extractionProvider {
+   vertical-align: top;
+}
+
+div.listTable .yui-dt-col-provider {
+   width: 8%;
+}
+
+div.listTable td.yui-dt-col-provider {
+   vertical-align: top;
+}
+
+div.listTable .yui-dt-col-previewCheckbox {
+	width: 6%;
+}
+
+div.listTable td.yui-dt-col-previewCheckbox {
+	vertical-align: top;
+	text-align: center;
+}
+
+div.listTable .yui-dt-col-orderCheckbox {
+	width: 6%;
+}
+
+div.listTable td.yui-dt-col-orderCheckbox {
+	vertical-align: top;
+	text-align: center;
+}
+
+
+.twoCol {
+	width: 45%;
+	float: left;
+}
+
+.oneCol {
+	margin: 20px 0 0 0;
+	width: 100%;
+	clear: both;
+}
+
+#buttonHolder {
+	clear: both;
+	text-align: right;
+}
+
+#buttonHolder button {
+	margin: 0 10PX 0 0;
+}
+
+#one .threeCol {
+	width: 150px;
+	float: left;
+	font-weight: bold;
+}
+
+#two .threeCol {
+	width: 230px;
+	float: left;
+}
+
+#three .threeCol {
+	width: 230px;
+	float: left;
+}
+
+table.createOrderTable td.col1 {
+	width: 150px;
+}
+table.createOrderTable th.col1 {
+	width: 150px;
+	text-align: left;
+}
+table.createOrderTable td.col2 {
+	width: 230px;
+}
+table.createOrderTable th.col2 {
+	width: 230px;
+}
+table.createOrderTable td.col3 {
+	width: 20px;
+}
+table.createOrderTable th.col3 {
+	width: 20px;
+	text-align: left;
+}
+
+
+table.productAccess td.col1 {
+	width: 350px;
+	vertical-align: top;
+}
+
+table.productAccess td.col2 {
+	width: 600px;
+	vertical-align: top;
+	padding-left: 60px;
+}
+
+#one .labelsChangeOrder {
+	width: 150px;
+	float: left;
+	font-weight: bold;
+	margin-left: 10px;
+	vertical-align: top;
+}
+
+#titleOne .twoCol {
+	width: 150px;
+	float: left;
+	font-weight: bold;
+}
+
+#titleTwo .twoCol {
+	width: 590px;
+	float: left;
+}
+
+ul.controlHolder {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul.controlHolder li {
+	height: 20px;
+	padding: 3px;
+	vertical-align: top;
+}
+
+ul.controlHolder li.tall {
+	height: 30px;
+}
+
+#two .threeCol ul.controlHolder li.productTitle {
+	height: 30px;
+	font-weight: bold;
+	background-color: #ffdada;
+	width: 600px;
+}
+
+.oneCol button {
+	margin: 0 15px 0 0;
+}
+
+#orgCustCol select {
+	width: 60%;
+}
+
+#productCol select {
+	width: 100%;
+	height: 300px;
+}
+
+.productSelect {
+	overflow: scroll;
+}
+
+.index {
+	width: 800px;
+}
+
+input.error,select.error {
+	background-color: #ffdada;
+}
+
+/*
+#messageHolder {
+	width:185px;
+	background:#FFFFFF;
+	position:absolute;
+	top:300px;
+	left:0px;
+}
+
+ul.errors {
+	list-style:disc;
+	margin:5px;
+	color:#a31b31;
+	font-weight:bold;
+	}
+	*/
+label.bold {
+	font-weight: bold;
+}
+
+table.productDescriptionLink {
+	border: 0px;
+	/*border-collapse: collapse;*/
+	margin-top: 10px;
+	width: 750px;
+}
+
+table.productDescriptionLink td.col1 {
+	width: 25%;
+}
+
+table.productDescriptionLink td.col2 {
+	width: 75%;
+}
+
+table.categoryManagement {
+	border: 0px;
+	/*border-collapse: collapse;*/
+	margin-top: 10px;
+	width: 750px;
+}
+
+table.categoryManagement td.col1 {
+	width: 25%;
+}
+
+table.categoryManagement td.col2 {
+	width: 75%;
+}
+
+/* This is the style for the informational messages presented to the user */
+div.error,div.message {
+	background: #ffc;
+	border: 1px solid green;
+	color: black;
+	font-weight: normal;
+	/*margin: 10px auto;*/
+	padding: 2px;
+	padding-left: 4px;
+	text-align: left;
+	vertical-align: bottom;
+	width: 60%;
+}
+
+div.warning {
+        background: #ffe0b0;
+        border: 1px solid red;
+        color: black;
+        font-weight: normal;
+        /*margin: 10px auto;*/
+        padding: 2px;
+        padding-left: 4px;
+        text-align: left;
+        vertical-align: bottom;
+        width: 60%;
+}
+
+
+div.error ul,div.message ul {
+	margin: 0;
+	list-style: none;
+	padding: 0;
+}
+
+div.message ul li {
+	padding-left: 10px;
+	background-image: url(../images/success_bullet.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 3px;
+}
+
+div.error ul li {
+	padding-left: 10px;
+	background-image: url(../images/error_bullet.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 3px;
+}
+
+/* use a different color for the errors */
+div.error {
+	border: 1px solid #c07300;
+}
+
+.errors {
+	left: 0px;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 60%;
+	background: #ffc;
+	border: 1px solid #c07300;
+	color: black;
+	font-weight: normal;
+	vertical-align: bottom;
+	list-style: none;
+}
+
+.errors li {
+	margin-left: 0px;
+	padding: 0px;
+	padding-left: 15px;
+	background-image: url(../images/error_bullet.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 3px;
+}
+
+/* style for geo Bounding Box table */
+table.geoBoundingBoxTable {
+	cellpadding: 0px;
+	cellspacing: 0px;
+	border-spacing: 0pt;
+	width: 110px;
+	height: 80px
+}
+
+table.geoBoundingBoxTable td {
+	padding: 0px 0px 0px 0px;
+}
+
+table.geoBoundingBoxTable td.geoBoundingBoxLatMin {
+	text-align: center;
+}
+
+table.geoBoundingBoxTable td.geoBoundingBoxLatMax {
+	text-align: center;
+}
+
+table.geoBoundingBoxTable td.geoBoundingBoxLongMin {
+	text-align: center;
+}
+
+table.geoBoundingBoxTable td.geoBoundingBoxLongMax {
+	text-align: center;
+}
+
+td.geoExtentPolygon {
+
+}
+
+table#metashareSearch {
+   margin-top: 0px;
+}
+
+img.checkbox {
+	margin: 3px 3px 3px 4px;
+}
+
+/* ##### Tab Style #### */
+ul.panelTabs {
+   margin-bottom: 0px;
+   left: -40px !important;
+   left: 0px;
+}
+ul.panelTabs li a:hover {
+   font-weight: bold;
+}
+
+ul.panelTabs li {
+	background-color: #6696c3;
+}
+
+ul.panelTabs li.current {
+	background-color: #003366;
+}
+
+#tabBarSubBar {
+   margin-top: 0px;
+   background: #003366;
+   border-right: 1px solid #003366;
+   border-left: 1px solid #003366;
+   width: 100%;
+}
+
+div.listTable th.yui-dt-sortable{
+	background:#899BE5 url(../images/arrow_off.png) no-repeat right; /* sorted header gradient */ 
+}
+
+div.listTable th.yui-dt-asc{
+	background:#899BE5 url(../images/arrow_up.png) no-repeat right; /* sorted header gradient #A9B8C7 */ 
+}
+
+div.listTable th.yui-dt-desc{
+	background:#899BE5 url(../images/arrow_down.png) no-repeat right; /* sorted header gradient #A9B8C7 */ 
+}
+
+div.listTable .yui-dt-col-orderId {
+   width: 10%;
+}
+
+div.listTable .yui-dt-col-creationDate {
+   width: 10%;
+}
+
+div.listTable .yui-dt-col-status {
+   width: 10%;
+}
+
+div.listTable .yui-dt-col-productTitle {
+   width: 40%;
+}
+
+div.listTable .yui-dt-col-orderDetails {
+   width: 10%;
+}
+
+div.listTable .yui-dt-col-reOrder {
+   width: 10%;
+}
+
+div.listTable .yui-dt-col-userId {
+   width: 10%;
+}
+div.listTable .yui-dt-paginator {
+	margin-left: 6px;
+}
+------=_Part_1478_236708460.1602717178816
+Content-Type: text/css; charset=Cp1252
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://services.land.vic.gov.au/SpatialDatamart/scripts/yahoo/tabview/assets/skins/sam/tabview.css
+
+/*
+Copyright (c) 2007, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.4.1
+*/
+.yui-navset .yui-nav li,.yui-navset .yui-navset-top .yui-nav li,.yui-navset=
+ .yui-navset-bottom .yui-nav li{margin:0 0.5em 0 0;}.yui-navset-left .yui-n=
+av li,.yui-navset-right .yui-nav li{margin:0 0 0.5em;}.yui-navset .yui-navs=
+et-left .yui-nav,.yui-navset .yui-navset-right .yui-nav,.yui-navset-left .y=
+ui-nav,.yui-navset-right .yui-nav{width:6em;}.yui-navset-top .yui-nav,.yui-=
+navset-bottom .yui-nav{width:auto;}.yui-navset .yui-navset-left,.yui-navset=
+-left{padding:0 0 0 6em;}.yui-navset-right{padding:0 6em 0 0;}.yui-navset-t=
+op,.yui-navset-bottom{padding:auto;}.yui-nav,.yui-nav li{margin:0;padding:0=
+;list-style:none;}.yui-navset li em{font-style:normal;}.yui-navset{position=
+:relative;zoom:1;}.yui-navset .yui-content{zoom:1;}.yui-navset .yui-nav li,=
+.yui-navset .yui-navset-top .yui-nav li,.yui-navset .yui-navset-bottom .yui=
+-nav li{display:inline-block;display:-moz-inline-stack;*display:inline;vert=
+ical-align:bottom;cursor:pointer;zoom:1;}.yui-navset-left .yui-nav li,.yui-=
+navset-right .yui-nav li{display:block;}.yui-navset .yui-nav a{position:rel=
+ative;}.yui-navset .yui-nav li a,.yui-navset-top .yui-nav li a,.yui-navset-=
+bottom .yui-nav li a{display:block;display:inline-block;vertical-align:bott=
+om;zoom:1;}.yui-navset-left .yui-nav li a,.yui-navset-right .yui-nav li a{d=
+isplay:block;}.yui-navset-bottom .yui-nav li a{vertical-align:text-top;}.yu=
+i-navset .yui-nav li a em,.yui-navset-top .yui-nav li a em,.yui-navset-bott=
+om .yui-nav li a em{display:block;}.yui-navset .yui-navset-left .yui-nav,.y=
+ui-navset .yui-navset-right .yui-nav,.yui-navset-left .yui-nav,.yui-navset-=
+right .yui-nav{position:absolute;z-index:1;}.yui-navset-top .yui-nav,.yui-n=
+avset-bottom .yui-nav{position:static;}.yui-navset .yui-navset-left .yui-na=
+v,.yui-navset-left .yui-nav{left:0;right:auto;}.yui-navset .yui-navset-righ=
+t .yui-nav,.yui-navset-right .yui-nav{right:0;left:auto;}.yui-skin-sam .yui=
+-navset .yui-nav,.yui-skin-sam .yui-navset .yui-navset-top .yui-nav{border:=
+solid #144A82;border-width:0 0 20px;Xposition:relative;zoom:1;}.yui-skin-sa=
+m .yui-navset .yui-nav li,.yui-skin-sam .yui-navset .yui-navset-top .yui-na=
+v li{margin:0 0.16em 0 0;padding:1px 0 0;zoom:1;}.yui-skin-sam .yui-navset =
+.yui-nav .selected,.yui-skin-sam .yui-navset .yui-navset-top .yui-nav .sele=
+cted{margin:0 0.16em -1px 0;}.yui-skin-sam .yui-navset .yui-nav a,.yui-skin=
+-sam .yui-navset .yui-navset-top .yui-nav a{background:#82A7CD repeat-x;bor=
+der:solid #a3a3a3;border-width:0 1px;color:#ffffff;position:relative;text-d=
+ecoration:none;}.yui-skin-sam .yui-navset .yui-nav a em,.yui-skin-sam .yui-=
+navset .yui-navset-top .yui-nav a em{border:solid #a3a3a3;border-width:1px =
+0 0;cursor:hand;padding:0.25em .75em;left:0;right:0;bottom:0;top:-1px;posit=
+ion:relative;}.yui-skin-sam .yui-navset .yui-nav .selected a,.yui-skin-sam =
+.yui-navset .yui-nav .selected a:focus,.yui-skin-sam .yui-navset .yui-nav .=
+selected a:hover{background:#144A82 repeat-x left -1400px;color:#fff;}.yui-=
+skin-sam .yui-navset .yui-nav a:hover,.yui-skin-sam .yui-navset .yui-nav a:=
+focus{background:#bfdaff url(../../../../assets/skins/sam/sprite.png) repea=
+t-x left -1300px;outline:0;}.yui-skin-sam .yui-navset .yui-nav .selected a =
+em{padding:0.35em 0.75em;}.yui-skin-sam .yui-navset .yui-nav .selected a,.y=
+ui-skin-sam .yui-navset .yui-nav .selected a em{border-color:#243356;}.yui-=
+skin-sam .yui-navset .yui-content{background:#ffffff;}.yui-skin-sam .yui-na=
+vset .yui-content,.yui-skin-sam .yui-navset .yui-navset-top .yui-content{bo=
+rder:1px solid #808080;border-top-color:#243356;padding:0.25em 0.5em;}.yui-=
+skin-sam .yui-navset-left .yui-nav,.yui-skin-sam .yui-navset .yui-navset-le=
+ft .yui-nav,.yui-skin-sam .yui-navset .yui-navset-right .yui-nav,.yui-skin-=
+sam .yui-navset-right .yui-nav{border-width:0 5px 0 0;Xposition:absolute;to=
+p:0;bottom:0;}.yui-skin-sam .yui-navset .yui-navset-right .yui-nav,.yui-ski=
+n-sam .yui-navset-right .yui-nav{border-width:0 0 0 5px;}.yui-skin-sam .yui=
+-navset-left .yui-nav li,.yui-skin-sam .yui-navset .yui-navset-left .yui-na=
+v li,.yui-skin-sam .yui-navset-right .yui-nav li{margin:0 0 0.16em;padding:=
+0 0 0 1px;}.yui-skin-sam .yui-navset-right .yui-nav li{padding:0 1px 0 0;}.=
+yui-skin-sam .yui-navset-left .yui-nav .selected,.yui-skin-sam .yui-navset =
+.yui-navset-left .yui-nav .selected{margin:0 -1px 0.16em 0;}.yui-skin-sam .=
+yui-navset-right .yui-nav .selected{margin:0 0 0.16em -1px;}.yui-skin-sam .=
+yui-navset-left .yui-nav a,.yui-skin-sam .yui-navset-right .yui-nav a{borde=
+r-width:1px 0;}.yui-skin-sam .yui-navset-left .yui-nav a em,.yui-skin-sam .=
+yui-navset .yui-navset-left .yui-nav a em,.yui-skin-sam .yui-navset-right .=
+yui-nav a em{border-width:0 0 0 1px;padding:0.2em .75em;top:auto;left:-1px;=
+}.yui-skin-sam .yui-navset-right .yui-nav a em{border-width:0 1px 0 0;left:=
+auto;right:-1px;}.yui-skin-sam .yui-navset-left .yui-nav a,.yui-skin-sam .y=
+ui-navset-left .yui-nav .selected a,.yui-skin-sam .yui-navset-left .yui-nav=
+ a:hover,.yui-skin-sam .yui-navset-right .yui-nav a,.yui-skin-sam .yui-navs=
+et-right .yui-nav .selected a,.yui-skin-sam .yui-navset-right .yui-nav a:ho=
+ver,.yui-skin-sam .yui-navset-bottom .yui-nav a,.yui-skin-sam .yui-navset-b=
+ottom .yui-nav .selected a,.yui-skin-sam .yui-navset-bottom .yui-nav a:hove=
+r{background-image:none;}.yui-skin-sam .yui-navset-left .yui-content{border=
+:1px solid #808080;border-left-color:#243356;}.yui-skin-sam .yui-navset-bot=
+tom .yui-nav,.yui-skin-sam .yui-navset .yui-navset-bottom .yui-nav{border-w=
+idth:5px 0 0;}.yui-skin-sam .yui-navset .yui-navset-bottom .yui-nav .select=
+ed,.yui-skin-sam .yui-navset-bottom .yui-nav .selected{margin:-1px 0.16em 0=
+ 0;}.yui-skin-sam .yui-navset .yui-navset-bottom .yui-nav li,.yui-skin-sam =
+.yui-navset-bottom .yui-nav li{padding:0 0 1px 0;vertical-align:top;}.yui-s=
+kin-sam .yui-navset .yui-navset-bottom .yui-nav li a,.yui-skin-sam .yui-nav=
+set-bottom .yui-nav li a{}.yui-skin-sam .yui-navset .yui-navset-bottom .yui=
+-nav a em,.yui-skin-sam .yui-navset-bottom .yui-nav a em{border-width:0 0 1=
+px;top:auto;bottom:-1px;}.yui-skin-sam .yui-navset-bottom .yui-content,.yui=
+-skin-sam .yui-navset .yui-navset-bottom .yui-content{border:1px solid #808=
+080;border-bottom-color:#243356;}
+
+------=_Part_1478_236708460.1602717178816
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://services.land.vic.gov.au/output/map_614337044785609539.png
+
+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
+------=_Part_1478_236708460.1602717178816
+Content-Type: image/jpeg
+Content-Transfer-Encoding: 7bit
+Content-Location: ./images/search.gif
+
+
+------=_Part_1478_236708460.1602717178816--
