@@ -1,4 +1,4 @@
 # Synthetic-Network-Creation and-Datasets
 
 
-![image](https://user-images.githubusercontent.com/18253918/138540387-81aa5f6c-bd9d-4709-bfb1-1891a3623304.png)
+![image](https://user-images.githubusercontent.com/18253918/138540445-3be80dbe-c6d5-4046-9b44-7e307c75ed45.png)
